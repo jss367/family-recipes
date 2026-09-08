@@ -1,11 +1,10 @@
 ---
-title: Blueprint Super Veggie
+title: Black Lentil Vegetable Bowl
 description: Black lentils, broccoli, cauliflower, mushrooms, and fermented vegetables with a bright lime dressing.
-image: /images/blueprint-super-veggie.jpg
+image: /images/black-lentil-vegetable-bowl.jpg
 imageAlt: A bowl of black lentils, broccoli, cauliflower, mushrooms, and fermented cabbage
-category: Blueprint
+category: Lunch
 tags:
-  - Bryan Johnson
   - lentils
   - broccoli
   - cauliflower
@@ -14,7 +13,6 @@ tags:
 prepTime: 10
 cookTime: 30
 servings: 1
-author: Adapted from Bryan Johnson's Blueprint protocol
 dateAdded: 2026-09-07
 ingredients:
   - 45 grams dry black lentils, rinsed
@@ -39,4 +37,4 @@ ingredients:
 4. Add the lentils, broccoli, and cauliflower to a bowl. Squeeze over the lime, add the apple cider vinegar, and toss gently.
 5. Finish with the hemp seeds, olive oil, and fermented vegetables.
 
-> Adapted from the Super Veggie meal in [Bryan Johnson's official Blueprint protocol](https://blueprint.bryanjohnson.com/blogs/news/bryan-johnsons-protocol).
+> For a softer texture, cook the broccoli and cauliflower for 2 to 3 minutes longer before assembling the bowl.

@@ -1,11 +1,10 @@
 ---
-title: Blueprint Lemon Red Lentil Soup
+title: Lemon Red Lentil Soup
 description: A warming red lentil soup with carrots, celery, turmeric, cumin, and plenty of lemon.
-image: /images/blueprint-lemon-red-lentil-soup.jpg
+image: /images/lemon-red-lentil-soup.jpg
 imageAlt: A bowl of golden red lentil soup with lemon and parsley
-category: Blueprint
+category: Lunch
 tags:
-  - Bryan Johnson
   - lentils
   - soup
   - lemon
@@ -14,7 +13,6 @@ tags:
 prepTime: 15
 cookTime: 35
 servings: 6
-author: Adapted from Bryan Johnson's Blueprint recipes
 dateAdded: 2026-09-07
 ingredients:
   - 1 to 2 tablespoons extra-virgin olive oil
@@ -39,4 +37,4 @@ ingredients:
 4. Remove the bay leaves. Blend part of the soup with an immersion blender, leaving some texture, or leave it chunky.
 5. Stir in the lemon juice and optional zest. Season with salt and black pepper before serving.
 
-> Adapted from the Lemon Red Lentil Soup in [Bryan Johnson's official Blueprint recipe collection](https://blueprint.bryanjohnson.com/blogs/news/blueprint-recipes).
+> The soup thickens as it cools. Add a splash of stock or water when reheating leftovers.

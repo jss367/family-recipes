@@ -1,11 +1,10 @@
 ---
-title: Bryan Johnson's Buddha Bowl
+title: Roasted Sweet Potato Buddha Bowl
 description: Roasted sweet potato, asparagus, kale, white beans, and crisp vegetables with lemon and walnuts.
-image: /images/bryan-johnson-buddha-bowl.jpg
+image: /images/roasted-sweet-potato-buddha-bowl.jpg
 imageAlt: A colorful Buddha bowl with sweet potato, asparagus, kale, white beans, carrots, and walnuts
-category: Blueprint
+category: Lunch
 tags:
-  - Bryan Johnson
   - sweet potato
   - asparagus
   - kale
@@ -14,7 +13,6 @@ tags:
 prepTime: 20
 cookTime: 50
 servings: 2
-author: Adapted from Bryan Johnson's Blueprint recipes
 dateAdded: 2026-09-07
 ingredients:
   - 1 Japanese sweet potato, halved lengthwise
@@ -41,4 +39,4 @@ ingredients:
 4. Toss the white beans with half of the lemon juice and the dill. Toss the carrots with the apple cider vinegar and cumin seeds. Massage the kale with the remaining olive oil until softened.
 5. Divide the vegetables and beans between two bowls. Add the sweet potato, then finish with walnuts, green onions, cilantro, and the remaining lemon juice.
 
-> Adapted from the [official Blueprint Buddha Bowl recipe](https://blueprint.bryanjohnson.com/blogs/recipes/buddha-bowl-recipe).
+> The vegetables and bean salad can be prepared ahead and assembled just before serving.
