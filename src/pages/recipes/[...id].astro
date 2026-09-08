@@ -12,6 +12,7 @@ const { recipe } = Astro.props;
 const { Content } = await render(recipe);
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const totalTime = recipe.data.prepTime + recipe.data.cookTime;
+const cookLabel = recipe.data.category === 'Shakes' ? 'Blend' : 'Cook';
 ---
 
 <BaseLayout title={recipe.data.title} description={recipe.data.description}>
@@ -25,7 +26,7 @@ const totalTime = recipe.data.prepTime + recipe.data.cookTime;
 				<p class="recipe-description">{recipe.data.description}</p>
 				<div class="detail-meta">
 					<div><span>Prep</span><strong>{recipe.data.prepTime} min</strong></div>
-					<div><span>Cook</span><strong>{recipe.data.cookTime} min</strong></div>
+					<div><span>{cookLabel}</span><strong>{recipe.data.cookTime} min</strong></div>
 					<div><span>Total</span><strong>{totalTime} min</strong></div>
 					<div><span>Serves</span><strong>{recipe.data.servings}</strong></div>
 				</div>

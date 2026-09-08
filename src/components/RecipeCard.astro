@@ -16,7 +16,7 @@ const totalTime = recipe.data.prepTime + recipe.data.cookTime;
 	data-recipe-card
 	data-title={recipe.data.title.toLowerCase()}
 	data-category={recipe.data.category.toLowerCase()}
-	data-tags={recipe.data.tags.join(' ').toLowerCase()}
+	data-tags={`${recipe.data.tags.join(' ')} ${recipe.data.ingredients.join(' ')}`.toLowerCase()}
 >
 	<a class="card-link" href={`${base}/recipes/${recipe.id}/`}>
 		<div class="card-image-wrap">
