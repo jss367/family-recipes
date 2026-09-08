@@ -1,0 +1,42 @@
+---
+import { Clock, Users } from '@lucide/astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+	recipe: CollectionEntry<'recipes'>;
+}
+
+const { recipe } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const totalTime = recipe.data.prepTime + recipe.data.cookTime;
+---
+
+<article
+	class="recipe-card"
+	data-recipe-card
+	data-title={recipe.data.title.toLowerCase()}
+	data-category={recipe.data.category.toLowerCase()}
+	data-tags={recipe.data.tags.join(' ').toLowerCase()}
+>
+	<a class="card-link" href={`${base}/recipes/${recipe.id}/`}>
+		<div class="card-image-wrap">
+			<img
+				class="card-image"
+				src={`${base}${recipe.data.image}`}
+				alt={recipe.data.imageAlt}
+				width="1200"
+				height="900"
+				loading="lazy"
+			/>
+			<span class="category-label">{recipe.data.category}</span>
+		</div>
+		<div class="card-body">
+			<h2>{recipe.data.title}</h2>
+			<p>{recipe.data.description}</p>
+			<div class="card-meta">
+				<span><Clock size={16} aria-hidden="true" /> {totalTime} min</span>
+				<span><Users size={16} aria-hidden="true" /> Serves {recipe.data.servings}</span>
+			</div>
+		</div>
+	</a>
+</article>

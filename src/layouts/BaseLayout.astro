@@ -1,0 +1,48 @@
+---
+import { BookOpen } from '@lucide/astro';
+import '../styles/global.css';
+
+interface Props {
+	title?: string;
+	description?: string;
+}
+
+const {
+	title = 'Family Recipes',
+	description = 'The recipes we make, share, and come back to.',
+} = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const pageTitle = title === 'Family Recipes' ? title : `${title} | Family Recipes`;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="description" content={description} />
+		<meta name="generator" content={Astro.generator} />
+		<link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
+		<title>{pageTitle}</title>
+	</head>
+	<body>
+		<header class="site-header">
+			<div class="shell header-inner">
+				<a class="brand" href={`${base}/`} aria-label="Family Recipes home">
+					<span class="brand-mark"><BookOpen size={20} stroke-width={1.8} /></span>
+					<span>Family Recipes</span>
+				</a>
+				<span class="header-note">Made and shared at home</span>
+			</div>
+		</header>
+		<main>
+			<slot />
+		</main>
+		<footer class="site-footer">
+			<div class="shell footer-inner">
+				<p>Family Recipes</p>
+				<p>Keep the good ones close.</p>
+			</div>
+		</footer>
+	</body>
+</html>

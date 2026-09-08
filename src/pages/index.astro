@@ -1,17 +1,84 @@
 ---
+import { Search } from '@lucide/astro';
+import { getCollection } from 'astro:content';
+import RecipeCard from '../components/RecipeCard.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
 
+const recipes = (await getCollection('recipes')).sort(
+	(a, b) => b.data.dateAdded.valueOf() - a.data.dateAdded.valueOf(),
+);
+const categories = [...new Set(recipes.map((recipe) => recipe.data.category))].sort();
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<BaseLayout>
+	<section class="intro shell">
+		<div>
+			<p class="eyebrow">Our family cookbook</p>
+			<h1>Recipes worth making again.</h1>
+			<p class="intro-copy">The dependable dinners, weekend favorites, and handwritten classics we want to keep in the family.</p>
+		</div>
+		<div class="recipe-count" aria-label={`${recipes.length} recipes`}>
+			<strong>{recipes.length}</strong>
+			<span>{recipes.length === 1 ? 'recipe' : 'recipes'}</span>
+		</div>
+	</section>
+
+	<section class="catalog-band">
+		<div class="shell">
+			<div class="catalog-tools">
+				<label class="search-box">
+					<Search size={19} aria-hidden="true" />
+					<span class="sr-only">Search recipes</span>
+					<input id="recipe-search" type="search" placeholder="Search recipes or ingredients" autocomplete="off" />
+				</label>
+				<div class="filters" aria-label="Filter by category">
+					<button class="filter-button active" type="button" data-category="all" aria-pressed="true">All recipes</button>
+					{categories.map((category) => (
+						<button class="filter-button" type="button" data-category={category.toLowerCase()} aria-pressed="false">{category}</button>
+					))}
+				</div>
+			</div>
+
+			<div class="recipe-grid" id="recipe-grid">
+				{recipes.map((recipe) => <RecipeCard recipe={recipe} />)}
+			</div>
+			<p class="empty-state" id="empty-state" hidden>No recipes match that search.</p>
+		</div>
+	</section>
+
+	<script>
+		const search = document.querySelector<HTMLInputElement>('#recipe-search');
+		const cards = [...document.querySelectorAll<HTMLElement>('[data-recipe-card]')];
+		const filters = [...document.querySelectorAll<HTMLButtonElement>('[data-category]')];
+		const emptyState = document.querySelector<HTMLElement>('#empty-state');
+		let selectedCategory = 'all';
+
+		function updateRecipes() {
+			const query = search?.value.trim().toLowerCase() ?? '';
+			let visibleCount = 0;
+
+			cards.forEach((card) => {
+				const matchesSearch = `${card.dataset.title} ${card.dataset.tags}`.includes(query);
+				const matchesCategory = selectedCategory === 'all' || card.dataset.category === selectedCategory;
+				const visible = matchesSearch && matchesCategory;
+				card.hidden = !visible;
+				if (visible) visibleCount += 1;
+			});
+
+			if (emptyState) emptyState.hidden = visibleCount > 0;
+		}
+
+		search?.addEventListener('input', updateRecipes);
+		filters.forEach((button) => {
+			button.addEventListener('click', () => {
+				selectedCategory = button.dataset.category ?? 'all';
+				filters.forEach((filter) => {
+					const active = filter === button;
+					filter.classList.toggle('active', active);
+					filter.setAttribute('aria-pressed', String(active));
+				});
+				updateRecipes();
+			});
+		});
+	</script>
+</BaseLayout>

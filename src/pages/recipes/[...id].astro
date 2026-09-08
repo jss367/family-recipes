@@ -1,0 +1,55 @@
+---
+import { ArrowLeft, Clock, Printer, Users } from '@lucide/astro';
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+	const recipes = await getCollection('recipes');
+	return recipes.map((recipe) => ({ params: { id: recipe.id }, props: { recipe } }));
+}
+
+const { recipe } = Astro.props;
+const { Content } = await render(recipe);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const totalTime = recipe.data.prepTime + recipe.data.cookTime;
+---
+
+<BaseLayout title={recipe.data.title} description={recipe.data.description}>
+	<article class="recipe-detail shell">
+		<a class="back-link" href={`${base}/`}><ArrowLeft size={17} aria-hidden="true" /> All recipes</a>
+
+		<header class="recipe-hero">
+			<div class="recipe-heading">
+				<p class="eyebrow">{recipe.data.category}</p>
+				<h1>{recipe.data.title}</h1>
+				<p class="recipe-description">{recipe.data.description}</p>
+				<div class="detail-meta">
+					<div><span>Prep</span><strong>{recipe.data.prepTime} min</strong></div>
+					<div><span>Cook</span><strong>{recipe.data.cookTime} min</strong></div>
+					<div><span>Total</span><strong>{totalTime} min</strong></div>
+					<div><span>Serves</span><strong>{recipe.data.servings}</strong></div>
+				</div>
+				{recipe.data.author && <p class="recipe-author">From {recipe.data.author}</p>}
+			</div>
+			<img class="hero-image" src={`${base}${recipe.data.image}`} alt={recipe.data.imageAlt} width="1200" height="900" />
+		</header>
+
+		<div class="recipe-actions">
+			<span><Clock size={17} aria-hidden="true" /> Ready in {totalTime} minutes</span>
+			<span><Users size={17} aria-hidden="true" /> {recipe.data.servings} servings</span>
+			<button class="print-button" type="button" onclick="window.print()"><Printer size={17} aria-hidden="true" /> Print recipe</button>
+		</div>
+
+		<div class="recipe-content">
+			<aside class="ingredients">
+				<h2>Ingredients</h2>
+				<ul>
+					{recipe.data.ingredients.map((ingredient) => <li>{ingredient}</li>)}
+				</ul>
+			</aside>
+			<section class="method prose">
+				<Content />
+			</section>
+		</div>
+	</article>
+</BaseLayout>
