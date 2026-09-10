@@ -29,6 +29,6 @@ npm run build
 
 The workflow in `.github/workflows/deploy.yml` deploys pushes to `main` through GitHub Pages. The site is configured for:
 
-`https://jss367.github.io/family-recipes/`
+`[https://jss367.github.io/family-recipes/](https://jss367.github.io/family-recipes/)`
 
 Generated recipe photography was created specifically for this project with OpenAI's built-in image generation tool.
