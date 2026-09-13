@@ -7,12 +7,13 @@ interface Props {
 	description?: string;
 }
 
+const siteTitle = "Keerthana and Julius's Family Recipes";
 const {
-	title = 'Family Recipes',
+	title = siteTitle,
 	description = 'The recipes we make, share, and come back to.',
 } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const pageTitle = title === 'Family Recipes' ? title : `${title} | Family Recipes`;
+const pageTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
 ---
 
 <!doctype html>
@@ -28,9 +29,9 @@ const pageTitle = title === 'Family Recipes' ? title : `${title} | Family Recipe
 	<body>
 		<header class="site-header">
 			<div class="shell header-inner">
-				<a class="brand" href={`${base}/`} aria-label="Family Recipes home">
+				<a class="brand" href={`${base}/`} aria-label={`${siteTitle} home`}>
 					<span class="brand-mark"><BookOpen size={20} stroke-width={1.8} /></span>
-					<span>Family Recipes</span>
+					<span>{siteTitle}</span>
 				</a>
 				<span class="header-note">Made and shared at home</span>
 			</div>
@@ -40,7 +41,7 @@ const pageTitle = title === 'Family Recipes' ? title : `${title} | Family Recipe
 		</main>
 		<footer class="site-footer">
 			<div class="shell footer-inner">
-				<p>Family Recipes</p>
+				<p>{siteTitle}</p>
 				<p>Keep the good ones close.</p>
 			</div>
 		</footer>
