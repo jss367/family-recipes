@@ -1,4 +1,4 @@
-# Keerthana and Julius's Family Recipes
+# Keerthana & Julius' Family Favorite Recipes
 
 A personal family cookbook built with Astro and Markdown, hosted on GitHub Pages.
 
