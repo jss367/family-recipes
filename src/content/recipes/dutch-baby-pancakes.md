@@ -1,8 +1,8 @@
 ---
 title: Dutch Baby Pancakes
-description: A classic oven-puffed pancake baked in a hot buttered skillet, finished with lemon juice and powdered sugar.
+description: A classic oven-puffed pancake baked in a hot buttered skillet, finished with lemon juice, powdered sugar, and fresh berries.
 image: /images/dutch-baby-pancakes.jpg
-imageAlt: A puffed Dutch baby pancake dusted with powdered sugar and lemon
+imageAlt: A puffed Dutch baby pancake topped with fresh berries and powdered sugar
 category: Breakfast
 tags:
   - pancakes
@@ -20,6 +20,7 @@ ingredients:
   - Pinch of salt
   - 1/2 stick butter
   - Lemon juice and powdered sugar, for serving
+  - Fresh berries, for topping (optional)
 ---
 
 ## Method
@@ -28,4 +29,4 @@ ingredients:
 2. Heat a cast iron skillet in the oven, then melt the butter in the hot skillet.
 3. Pour the batter into the skillet with the sizzling butter.
 4. Bake at 425°F for 15 minutes, until puffed and golden.
-5. Top with fresh lemon juice and a dusting of powdered sugar, ideally from a sifter.
+5. Top with fresh lemon juice, a dusting of powdered sugar, and a handful of fresh berries for extra flavor.
