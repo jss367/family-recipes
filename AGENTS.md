@@ -1,3 +1,12 @@
+## Git workflow
+
+Commit and push straight to `main` in this repo. No worktree, no branch, no PR.
+
+This overrides the global worktree-and-PR rule in `~/.claude/CLAUDE.md` — it's
+a personal recipe site, so the review round trip isn't worth it. Work in the
+main checkout, run `npm run build` to confirm the site still builds, then
+commit and push.
+
 ## Development
 
 When starting the dev server, use background mode:
