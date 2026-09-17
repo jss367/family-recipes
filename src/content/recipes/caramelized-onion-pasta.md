@@ -2,7 +2,7 @@
 title: Caramelized Onion Pasta
 description: Spaghetti tossed in a deeply caramelized onion, garlic, and tomato paste sauce with sun-dried tomatoes and nutritional yeast.
 image: /images/caramelized-onion-pasta.jpg
-imageAlt: A skillet of caramelized onion pasta topped with pine nuts and parsley
+imageAlt: A bowl of caramelized onion pasta topped with pine nuts and parsley
 category: Dinner
 tags:
   - onions
