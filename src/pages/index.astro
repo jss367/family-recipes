@@ -11,18 +11,6 @@ const categories = [...new Set(recipes.map((recipe) => recipe.data.category))].s
 ---
 
 <BaseLayout>
-	<section class="intro shell">
-		<div>
-			<p class="eyebrow">Our family cookbook</p>
-			<h1>Recipes worth making again.</h1>
-			<p class="intro-copy">The dependable dinners, weekend favorites, and handwritten classics we want to keep in the family.</p>
-		</div>
-		<div class="recipe-count" aria-label={`${recipes.length} recipes`}>
-			<strong>{recipes.length}</strong>
-			<span>{recipes.length === 1 ? 'recipe' : 'recipes'}</span>
-		</div>
-	</section>
-
 	<section class="catalog-band">
 		<div class="shell">
 			<div class="catalog-tools">
