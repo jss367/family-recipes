@@ -1,0 +1,53 @@
+---
+import { Carrot, CalendarDays, ArrowDown } from '@lucide/astro';
+---
+
+<section class="kitchen-tools" aria-label="Plan your meals">
+	<div class="pantry-panel">
+		<p class="eyebrow"><Carrot size={17} aria-hidden="true" /> Start with your pantry</p>
+		<h1>What can I make?</h1>
+		<p>Tell us what you have. Find your next favorite dinner.</p>
+		<form id="pantry-form">
+			<label for="pantry-input">Ingredients you have</label>
+			<div class="pantry-input-row">
+				<input id="pantry-input" type="text" placeholder="tofu, rice, peppers" aria-describedby="pantry-help" autocomplete="off" />
+				<button class="primary-button" type="submit">Find recipes</button>
+			</div>
+			<p id="pantry-help" class="helper-text">Separate ingredients with commas. Matches check ingredients, not quantities. Water and optional extras don’t count.</p>
+			<button id="clear-pantry" class="text-button" type="button" hidden>Clear pantry</button>
+		</form>
+	</div>
+	<div class="menu-intro">
+		<p class="eyebrow"><CalendarDays size={17} aria-hidden="true" /> A little planning goes a long way</p>
+		<h2>This week’s menu</h2>
+		<p>Choose a few recipes below. We’ll bring their ingredients together in one grocery list.</p>
+		<a class="menu-link" href="#weekly-menu">View menu &amp; grocery list <span data-menu-count>0 recipes</span><ArrowDown size={16} aria-hidden="true" /></a>
+		<p class="helper-text" data-storage-note>Saved in this browser.</p>
+	</div>
+</section>
+
+<details id="weekly-menu" class="weekly-menu">
+	<summary><span>This week’s menu &amp; grocery list</span><span data-menu-count>0 recipes</span></summary>
+	<div class="planner-columns">
+		<section aria-labelledby="menu-heading">
+			<div class="section-heading"><h2 id="menu-heading">On the menu</h2><button id="clear-menu" class="text-button" type="button" hidden>Clear menu</button></div>
+			<p id="menu-empty" class="helper-text">Use “Add to menu” on any recipe to start planning your week.</p>
+			<ul id="menu-list" class="menu-list"></ul>
+		</section>
+		<section aria-labelledby="grocery-heading">
+			<div class="section-heading"><h2 id="grocery-heading">Grocery list</h2><span id="grocery-count" class="helper-text" aria-live="polite"></span></div>
+			<p id="grocery-empty" class="helper-text">Your combined grocery checklist will appear here.</p>
+			<div id="grocery-tools" hidden>
+				<p class="helper-text">Check off what you have or buy. Quantities cover each recipe’s listed servings; tap recipe details to see the original amounts.</p>
+				<div class="grocery-actions">
+					<button id="check-pantry" class="secondary-button" type="button">Check off pantry matches</button>
+					<button id="copy-groceries" class="secondary-button" type="button">Copy remaining list</button>
+					<button id="reset-checks" class="text-button" type="button">Uncheck all</button>
+				</div>
+			</div>
+			<ul id="grocery-list" class="grocery-list"></ul>
+		</section>
+	</div>
+</details>
+<p id="planner-status" class="helper-text" role="status"></p>
+<noscript><p>Enable JavaScript to match pantry ingredients and save a weekly menu. You can still browse and print every recipe.</p></noscript>
