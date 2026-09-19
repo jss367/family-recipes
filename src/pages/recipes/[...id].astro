@@ -38,8 +38,11 @@ const cookLabel = recipe.data.category === 'Shakes' ? 'Blend' : 'Cook';
 		<div class="recipe-actions">
 			<span><Clock size={17} aria-hidden="true" /> Ready in {totalTime} minutes</span>
 			<span><Users size={17} aria-hidden="true" /> {recipe.data.servings} servings</span>
+			<button class="add-menu-button" type="button" data-menu-recipe={recipe.id} data-recipe-title={recipe.data.title} aria-pressed="false">Add to menu</button>
+			<a class="text-button" href={`${base}/#weekly-menu`}>View weekly menu</a>
 			<button class="print-button" type="button" onclick="window.print()"><Printer size={17} aria-hidden="true" /> Print recipe</button>
 		</div>
+		<p class="helper-text recipe-menu-status" data-menu-status role="status"></p>
 
 		<div class="recipe-content">
 			<aside class="ingredients">

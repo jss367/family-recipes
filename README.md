@@ -11,6 +11,14 @@ A personal family cookbook built with Astro and Markdown, hosted on GitHub Pages
 
 The content schema is defined in `src/content.config.ts`. It checks required fields during the build so incomplete recipes are caught before deployment.
 
+## Pantry and weekly menu
+
+Enter comma-separated pantry ingredients on the home page to rank recipes by the proportion of required ingredients on hand. Open a recipe’s missing-ingredients list to see what else you need. Water, ice, and explicitly optional ingredients are excluded from the ranking. Matching checks ingredient names, not available quantities, and recognizes common varieties and aliases.
+
+Use **Add to menu** on recipe cards or recipe pages, then open **This week’s menu & grocery list**. The checklist combines ingredients for one batch of each selected recipe at its listed serving size. Compatible quantities are totaled; ranges, alternatives, and other complex amounts retain their original wording and recipe details. Check items individually or use **Check off pantry matches**, then copy the remaining shopping list.
+
+The pantry, menu, and checklist are saved in local browser storage and do not sync across devices. Clearing the menu starts a new plan without clearing the pantry. Changing the recipes contributing to a grocery item resets that item’s checkmark so its new quantity can be reviewed.
+
 ## Develop locally
 
 ```sh
@@ -22,6 +30,7 @@ Run validation and a production build before pushing:
 
 ```sh
 npm run check
+npm test
 npm run build
 ```
 

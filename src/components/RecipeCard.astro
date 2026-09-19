@@ -14,6 +14,7 @@ const totalTime = recipe.data.prepTime + recipe.data.cookTime;
 <article
 	class="recipe-card"
 	data-recipe-card
+	data-recipe-id={recipe.id}
 	data-title={recipe.data.title.toLowerCase()}
 	data-category={recipe.data.category.toLowerCase()}
 	data-tags={`${recipe.data.tags.join(' ')} ${recipe.data.ingredients.join(' ')}`.toLowerCase()}
@@ -39,4 +40,8 @@ const totalTime = recipe.data.prepTime + recipe.data.cookTime;
 			</div>
 		</div>
 	</a>
+	<div class="card-planning">
+		<div data-match-result hidden></div>
+		<button class="add-menu-button" type="button" data-menu-recipe={recipe.id} data-recipe-title={recipe.data.title} aria-pressed="false">Add to menu</button>
+	</div>
 </article>
