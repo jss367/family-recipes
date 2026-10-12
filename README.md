@@ -19,21 +19,6 @@ Use **Add to menu** on recipe cards or recipe pages, then open **This week’s m
 
 The pantry, menu, and checklist are saved in local browser storage and do not sync across devices. Clearing the menu starts a new plan without clearing the pantry. Changing the recipes contributing to a grocery item resets that item’s checkmark so its new quantity can be reviewed.
 
-## Develop locally
-
-```sh
-npm install
-npm run dev
-```
-
-Run validation and a production build before pushing:
-
-```sh
-npm run check
-npm test
-npm run build
-```
-
 ## Deployment
 
 The workflow in `.github/workflows/deploy.yml` deploys pushes to `main` through GitHub Pages. The site is configured for:
