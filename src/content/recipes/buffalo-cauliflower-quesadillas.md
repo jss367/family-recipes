@@ -32,10 +32,10 @@ ingredients:
 ## Method
 
 1. Preheat the oven to 400°F and line a large sheet pan with parchment.
-2. Heat the olive oil in a large deep skillet over medium heat. Add the cauliflower, chickpeas, garlic powder, and paprika, and sauté until coated. Reduce the heat to low, cover, and cook for 8 minutes, until the cauliflower softens.
-3. Stir in the buffalo sauce and continue cooking until the chickpeas and cauliflower are browned and caramelized, adding more sauce if needed.
-4. Arrange 6 tortillas slightly overlapping across the parchment, letting the edges hang over the sides of the pan, then place one more tortilla in the center to cover the base. Set the last tortilla aside for the top.
-5. Spread the cauliflower-chickpea mixture evenly over the tortillas, then top with the red onion, bell pepper, vegan cheese if using, and green onion.
+2. Heat the **olive oil** in a large deep skillet over medium heat. Add the **cauliflower**, **chickpeas**, **garlic powder**, and **paprika**, and sauté until coated. Reduce the heat to low, cover, and cook for 8 minutes, until the cauliflower softens.
+3. Stir in the **buffalo sauce** and continue cooking until the chickpeas and cauliflower are browned and caramelized, adding more sauce if needed.
+4. Arrange 6 **tortillas** slightly overlapping across the parchment, letting the edges hang over the sides of the pan, then place one more tortilla in the center to cover the base. Set the last tortilla aside for the top.
+5. Spread the cauliflower-chickpea mixture evenly over the tortillas, then top with the **red onion**, **bell pepper**, **vegan cheese** if using, and **green onion**.
 6. Fold the overhanging tortilla edges toward the center, then lay the reserved tortilla on top to seal.
 7. Set another sheet pan on top to keep everything flat and bake for 15 to 20 minutes, until browned, removing the top pan partway through for a crispier top.
 8. Let cool slightly, then slice into squares and serve with your favorite toppings.

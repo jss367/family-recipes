@@ -31,8 +31,8 @@ ingredients:
 ## Method
 
 1. Preheat the oven to 375°F.
-2. Melt the butter in a 10-inch cast iron skillet or 9.5-inch pie plate over medium heat, tilting to coat the sides. Arrange the fruit in a single layer in the pan and set aside.
-3. Blend the milk, cream, 1/3 cup sugar, eggs, vanilla, almond extract, salt, and flour on medium speed for about 30 seconds, until smooth and frothy.
+2. Melt the **butter** in a 10-inch cast iron skillet or 9.5-inch pie plate over medium heat, tilting to coat the sides. Arrange the **fruit** in a single layer in the pan and set aside.
+3. Blend the **milk**, **cream**, 1/3 cup **sugar**, **eggs**, **vanilla**, **almond extract**, **salt**, and **flour** on medium speed for about 30 seconds, until smooth and frothy.
 4. Pour the batter over the fruit and sprinkle the remaining tablespoon of sugar on top.
 5. Bake for 45 to 50 minutes, until puffed and golden. Let cool before serving warm, at room temperature, or chilled.
 

@@ -40,14 +40,14 @@ ingredients:
 
 ## Method
 
-1. Wash and soak the rajma for 6 to 8 hours (regular red kidney beans work too). Drain and discard the soaking water.
-2. Add the soaked rajma to a pressure cooker along with the onions and tomatoes — just cross-slit the tomatoes on top, no need to cut further.
-3. Add the green chilies, garlic, ginger, cinnamon, black cardamom, bay leaves, cumin seeds, salt, turmeric, Kashmiri chili powder, coriander powder, and garam masala. Add the ghee and water, and stir well.
+1. Wash and soak the **rajma** for 6 to 8 hours (regular red kidney beans work too). Drain and discard the soaking water.
+2. Add the soaked rajma to a pressure cooker along with the **onions** and **tomatoes** — just cross-slit the tomatoes on top, no need to cut further.
+3. Add the **green chilies**, **garlic**, **ginger**, **cinnamon**, **black cardamom**, **bay leaves**, **cumin seeds**, **salt**, **turmeric**, **Kashmiri chili powder**, **coriander powder**, and **garam masala**. Add the **ghee** and **water**, and stir well.
 4. Cover and cook on high heat for 1 whistle, then reduce to medium-low and cook for 15 minutes. Turn off the heat and let the pressure release naturally.
 5. Once depressurized, open the lid — the tomatoes should be completely soft. Peel off their skins and remove the whole spices from the top. The garlic should be soft and the rajma fully cooked through.
 6. Bring everything back to a boil over the flame, stirring well so the tomatoes and onions mash into the gravy.
-7. Cook for 10 to 12 minutes, stirring occasionally. Thin with a little hot water if the gravy gets too thick, or lightly mash a few beans if it's too thin.
-8. Taste and adjust the salt. Finish with a pinch of garam masala, a large pinch of roasted kasuri methi powder, the remaining ghee, and fresh coriander.
+7. Cook for 10 to 12 minutes, stirring occasionally. Thin with a little **hot water** if the gravy gets too thick, or lightly mash a few beans if it's too thin.
+8. Taste and adjust the salt. Finish with a pinch of garam masala, a large pinch of roasted **kasuri methi powder**, the remaining ghee, and fresh **coriander**.
 
 > Serve over rice with a squeeze of lemon, a drizzle of ghee, sliced onions, and green chutney on the side, or alongside roti or chapati.
 >

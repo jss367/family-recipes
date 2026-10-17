@@ -26,11 +26,11 @@ ingredients:
 
 ## Method
 
-1. Preheat the oven to 350°F. Spread the hazelnuts on a rimmed baking sheet and roast for 10 to 13 minutes, until fragrant.
+1. Preheat the oven to 350°F. Spread the **hazelnuts** on a rimmed baking sheet and roast for 10 to 13 minutes, until fragrant.
 2. Wrap the hot hazelnuts tightly in a clean dish towel and let steam for 2 minutes, then rub vigorously to loosen the skins. Let cool, then roughly chop.
 3. Line an 8x4-inch loaf pan for thicker pieces, or an 8x8-inch pan for thinner ones, with parchment paper.
-4. Combine the condensed coconut milk and chocolate in a microwave-safe bowl. Microwave on high for 90 seconds, let sit undisturbed for 1 minute, then whisk until smooth.
-5. While still warm, whisk in the almond butter, vanilla, and a pinch of sea salt until thick and fully combined.
+4. Combine the **condensed coconut milk** and **chocolate** in a microwave-safe bowl. Microwave on high for 90 seconds, let sit undisturbed for 1 minute, then whisk until smooth.
+5. While still warm, whisk in the **almond butter**, **vanilla**, and a pinch of **sea salt** until thick and fully combined.
 6. Fold in the chopped hazelnuts.
 7. Spread the mixture evenly in the prepared pan and sprinkle lightly with sea salt.
 8. Refrigerate for 1 to 2 hours, until set. Let come to room temperature before slicing.

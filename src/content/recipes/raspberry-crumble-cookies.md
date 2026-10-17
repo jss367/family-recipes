@@ -28,10 +28,10 @@ ingredients:
 ## Method
 
 1. Preheat the oven to 350°F. Grease and flour a jumbo muffin tin, or use baking spray.
-2. Cream the butter, both sugars, and the vanilla extract together for 1 to 2 minutes.
-3. Add the almond extract, flour, and salt, and mix until just combined — avoid overmixing, or the dough can turn tough.
+2. Cream the **butter**, both **sugars**, and the **vanilla extract** together for 1 to 2 minutes.
+3. Add the **almond extract**, **flour**, and **salt**, and mix until just combined — avoid overmixing, or the dough can turn tough.
 4. Press about 1/4 cup of dough into each muffin well, covering the bottom and slightly up the sides, and set aside a little dough for the topping.
-5. Spoon 1/2 to 1 tablespoon of raspberry jam into the center of each.
+5. Spoon 1/2 to 1 tablespoon of **raspberry jam** into the center of each.
 6. Crumble a heaping tablespoon of the reserved dough over the top of each.
 7. Bake for 18 to 22 minutes, until lightly browned.
 8. Let cool completely in the pan before removing — this keeps them from crumbling apart.

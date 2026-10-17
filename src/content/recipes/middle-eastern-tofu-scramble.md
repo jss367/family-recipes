@@ -38,13 +38,13 @@ ingredients:
 
 ## Method
 
-1. Drain the tofu, wrap it in paper towels or a clean dish towel, and press under a heavy weight for 15 minutes.
-2. Whisk together the coriander, cumin, paprika, pepper, turmeric, cinnamon, cardamom, nutmeg, kala namak, tahini, and nutritional yeast in a bowl. Gradually whisk in the milk to make a sauce.
+1. Drain the **tofu**, wrap it in paper towels or a clean dish towel, and press under a heavy weight for 15 minutes.
+2. Whisk together the **coriander**, **cumin**, **paprika**, **pepper**, **turmeric**, **cinnamon**, **cardamom**, **nutmeg**, **kala namak**, **tahini**, and **nutritional yeast** in a bowl. Gradually whisk in the **milk** to make a sauce.
 3. Crumble the pressed tofu by hand into medium-sized chunks.
-4. Heat the olive oil in a large nonstick pan over medium-high heat. Add the shallots with a pinch of salt and cook, stirring often, for 2 minutes, until just softened. Add the garlic and cook for 1 to 2 minutes more, until fragrant.
+4. Heat the **olive oil** in a large nonstick pan over medium-high heat. Add the **shallots** with a pinch of **salt** and cook, stirring often, for 2 minutes, until just softened. Add the **garlic** and cook for 1 to 2 minutes more, until fragrant.
 5. Add the tofu and fry until lightly browned, 5 to 7 minutes, stirring occasionally without breaking it up too much.
 6. Pour in the sauce and fold to coat the tofu. Continue cooking to your preferred texture — a few minutes more for a drier scramble, or just 30 to 60 seconds for a wetter one.
-7. Finish with a pinch more kala namak, the za'atar if using, and salt to taste.
+7. Finish with a pinch more kala namak, the **za'atar** if using, and salt to taste.
 
 > Leftovers keep in the fridge 5 to 6 days and reheat well in a pan or the microwave. Serve alongside hummus and pita for a fuller brunch spread.
 >

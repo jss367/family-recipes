@@ -31,10 +31,10 @@ ingredients:
 ## Method
 
 1. Preheat the oven to 350°F and grease an 8x8-inch baking dish.
-2. Combine the oats, baking powder, cinnamon, and salt in a large bowl.
-3. Whisk together the milk, egg, maple syrup, melted butter, and vanilla in another bowl, then stir in the mashed banana.
-4. Pour the wet mixture into the dry ingredients and stir until just combined. Fold in the blueberries or chopped apple.
-5. Pour into the prepared dish and scatter the walnuts or pecans over the top.
+2. Combine the **oats**, **baking powder**, **cinnamon**, and **salt** in a large bowl.
+3. Whisk together the **milk**, **egg**, **maple syrup**, melted **butter**, and **vanilla** in another bowl, then stir in the mashed **banana**.
+4. Pour the wet mixture into the dry ingredients and stir until just combined. Fold in the **blueberries or chopped apple**.
+5. Pour into the prepared dish and scatter the **walnuts or pecans** over the top.
 6. Bake until set and golden at the edges and a knife inserted in the center comes out mostly clean, about 35 to 40 minutes.
 7. Let cool for 10 minutes before slicing or spooning into bowls.
 

@@ -31,10 +31,10 @@ ingredients:
 
 ## Method
 
-1. Warm the olive oil in a large pot over medium heat. Add the carrots, celery, and onion and cook until beginning to soften, 7 to 8 minutes.
-2. Add the garlic, turmeric, and cumin. Stir until fragrant, about 1 minute.
-3. Add the lentils, stock, and bay leaves. Bring to a boil, then reduce to a gentle simmer and cook until the lentils and vegetables are tender, 20 to 25 minutes.
+1. Warm the **olive oil** in a large pot over medium heat. Add the **carrots**, **celery**, and **onion** and cook until beginning to soften, 7 to 8 minutes.
+2. Add the **garlic**, **turmeric**, and **cumin**. Stir until fragrant, about 1 minute.
+3. Add the **lentils**, **stock**, and **bay leaves**. Bring to a boil, then reduce to a gentle simmer and cook until the lentils and vegetables are tender, 20 to 25 minutes.
 4. Remove the bay leaves. Blend part of the soup with an immersion blender, leaving some texture, or leave it chunky.
-5. Stir in the lemon juice and optional zest. Season with salt and black pepper before serving.
+5. Stir in the **lemon juice** and optional zest. Season with **salt** and **black pepper** before serving.
 
 > The soup thickens as it cools. Add a splash of stock or water when reheating leftovers.

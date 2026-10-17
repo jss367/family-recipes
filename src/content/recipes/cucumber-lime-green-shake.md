@@ -30,8 +30,8 @@ ingredients:
 
 ## Method
 
-1. Add the water, lime juice, cucumber, apple, spinach, yogurt, mint, and ginger to a blender.
-2. Blend until smooth. Add the ice and blend again until cold and creamy.
+1. Add the **water**, **lime juice**, **cucumber**, **apple**, **spinach**, **yogurt**, **mint**, and **ginger** to a blender.
+2. Blend until smooth. Add the **ice** and blend again until cold and creamy.
 3. Add cold water a tablespoon at a time to reach your preferred consistency, then serve.
 
 > Peel the cucumber for a milder flavor or leave it on for deeper color and more texture.

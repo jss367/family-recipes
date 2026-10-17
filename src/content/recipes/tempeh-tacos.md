@@ -39,13 +39,13 @@ ingredients:
 
 ## Method
 
-1. Combine the chiles, shallot, vinegar, maple syrup, and a pinch of salt in a small jar. Seal and let macerate for at least 15 minutes, shaking occasionally.
-2. Crumble the tempeh into small, pine-nut-sized pieces with your hands — the smaller the pieces, the crispier they'll get.
-3. Heat the oil in a 12-inch nonstick pan over medium-high to high heat until shimmering. Add the tempeh in a single layer and cook undisturbed for 2 minutes, then stir every 1 1/2 to 2 minutes for 12 to 14 minutes total, until mostly golden and crisp.
-4. Transfer the tempeh to paper towels to blot, then toss with the soy sauce and lime juice once slightly cooled.
-5. Pulse the avocado, sour cream, garlic, lime juice, cumin, cilantro, salt, and pepper in a food processor until creamy, then season to taste.
-6. Char the tortillas over a gas flame or in a cast-iron skillet for 15 to 30 seconds per side, then stack and wrap in a dish towel to keep warm.
-7. Spread the crema on each tortilla, then top with the crispy tempeh, pickled vegetables and some of their liquid, and fresh cilantro. Serve with lime wedges.
+1. Combine the **chiles**, **shallot**, **vinegar**, **maple syrup**, and a pinch of **salt** in a small jar. Seal and let macerate for at least 15 minutes, shaking occasionally.
+2. Crumble the **tempeh** into small, pine-nut-sized pieces with your hands — the smaller the pieces, the crispier they'll get.
+3. Heat the **oil** in a 12-inch nonstick pan over medium-high to high heat until shimmering. Add the tempeh in a single layer and cook undisturbed for 2 minutes, then stir every 1 1/2 to 2 minutes for 12 to 14 minutes total, until mostly golden and crisp.
+4. Transfer the tempeh to paper towels to blot, then toss with the **soy sauce** and **lime juice** once slightly cooled.
+5. Pulse the **avocado**, **sour cream**, **garlic**, lime juice, **cumin**, **cilantro**, salt, and **pepper** in a food processor until creamy, then season to taste.
+6. Char the **tortillas** over a gas flame or in a cast-iron skillet for 15 to 30 seconds per side, then stack and wrap in a dish towel to keep warm.
+7. Spread the crema on each tortilla, then top with the crispy tempeh, pickled vegetables and some of their liquid, and fresh cilantro. Serve with **lime wedges**.
 
 > One pepper keeps this mild, three makes it spicy. The crema is worth doubling — it's good on other tacos, bowls, and roasted vegetables. Store the components separately: tempeh keeps 5 days, crema 4 to 5 days (press an avocado pit into the top before sealing to keep it from browning), and the pickled vegetables keep for several weeks.
 >

@@ -24,8 +24,8 @@ ingredients:
 
 ## Method
 
-1. Bring the water or milk and a pinch of salt to a boil.
-2. Stir in the oats.
+1. Bring the **water or milk** and a pinch of **salt** to a boil.
+2. Stir in the **oats**.
 3. Reduce the heat to medium-low and simmer for 5 minutes, stirring occasionally, until the oats are tender and creamy.
 4. Stir in your sweetener of choice and adjust to taste.
 5. Top with your choice of add-ins, if using.

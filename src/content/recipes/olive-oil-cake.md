@@ -30,11 +30,11 @@ ingredients:
 ## Method
 
 1. Preheat the oven to 350°F and oil a 9-inch round cake pan.
-2. Whisk together the flour, sugar, baking powder, baking soda, and salt in a large bowl.
-3. Make a well in the center and add the olive oil, yogurt, and eggs. Whisk to combine.
-4. Stir in the lemon juice and zest until the batter is smooth with no lumps.
+2. Whisk together the **flour**, **sugar**, **baking powder**, **baking soda**, and **salt** in a large bowl.
+3. Make a well in the center and add the **olive oil**, **yogurt**, and **eggs**. Whisk to combine.
+4. Stir in the **lemon juice** and **zest** until the batter is smooth with no lumps.
 5. Pour the batter into the prepared pan and bake for 30 to 35 minutes, until a toothpick inserted in the center comes out clean.
-6. Let cool for at least 10 minutes before slicing. Serve with a dollop of Greek yogurt and fresh raspberries, if desired.
+6. Let cool for at least 10 minutes before slicing. Serve with a dollop of Greek yogurt and fresh **raspberries**, if desired.
 
 > Bring the eggs to room temperature first for a smoother batter, and zest the lemon before juicing it — it's much easier that way. Keeps at room temperature in an airtight container for up to 4 days, or freeze individual slices, wrapped in foil, for up to 3 months.
 >

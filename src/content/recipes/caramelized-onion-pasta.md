@@ -32,14 +32,14 @@ ingredients:
 
 ## Method
 
-1. Bring a large pot of salted water to a boil and cook the pasta according to the package directions. Reserve at least 1 cup of the pasta water before draining.
-2. Heat the olive oil in a large skillet over medium-high heat. Add the onions with a pinch of salt and pepper and cook for 5 minutes, until a golden fond forms on the bottom of the pan.
+1. Bring a large pot of salted water to a boil and cook the **pasta** according to the package directions. Reserve at least 1 cup of the pasta water before draining.
+2. Heat the **olive oil** in a large skillet over medium-high heat. Add the **onions** with a pinch of **salt** and **pepper** and cook for 5 minutes, until a golden fond forms on the bottom of the pan.
 3. Continue cooking the onions for about 15 minutes, deglazing with a splash of water every couple of minutes and stirring frequently, until deeply golden and caramelized.
-4. Reduce the heat to medium, add the garlic, and cook for 5 to 10 minutes, deglazing as needed, until soft and caramelized.
-5. Stir in the red pepper flakes and oregano and cook for 30 seconds, then add the tomato paste and cook, stirring constantly, for 2 to 3 minutes, until darkened.
-6. Stir in the tamari, nutritional yeast, and sun-dried tomatoes, then reduce the heat to low.
+4. Reduce the heat to medium, add the **garlic**, and cook for 5 to 10 minutes, deglazing as needed, until soft and caramelized.
+5. Stir in the **red pepper flakes** and **oregano** and cook for 30 seconds, then add the **tomato paste** and cook, stirring constantly, for 2 to 3 minutes, until darkened.
+6. Stir in the **tamari**, **nutritional yeast**, and **sun-dried tomatoes**, then reduce the heat to low.
 7. Add the cooked pasta to the skillet along with the reserved pasta water, a splash at a time, tossing until the sauce coats the noodles, about 3 to 4 minutes.
-8. Garnish with pine nuts and parsley, if using.
+8. Garnish with **pine nuts** and **parsley**, if using.
 
 > Deglazing the pan with a few spoonfuls of water every couple of minutes lets the onions caramelize quickly over higher heat instead of the usual slow simmer. Tomato paste from a tube, rather than canned, gives the best flavor here. Leftovers keep in the fridge 2 to 3 days.
 >

@@ -26,11 +26,11 @@ ingredients:
 
 ## Method
 
-1. Blend the mango pulp, yogurt, and 1 cup of the milk until smooth.
+1. Blend the **mango pulp**, **yogurt**, and 1 cup of the **milk** until smooth.
 2. Taste before adding any sweetener — many mango pulps are already sweet enough on their own.
-3. Add 1 tablespoon of sugar or honey only if needed.
-4. Add the cardamom and a pinch of salt, and blend briefly to combine.
+3. Add 1 tablespoon of **sugar or honey** only if needed.
+4. Add the **cardamom** and a pinch of **salt**, and blend briefly to combine.
 5. Thin with more milk if it's too thick.
-6. Chill, or serve right away over a little ice.
+6. Chill, or serve right away over a little **ice**.
 
 > A pinch of salt cuts the sweetness and rounds out the flavor — don't skip it.

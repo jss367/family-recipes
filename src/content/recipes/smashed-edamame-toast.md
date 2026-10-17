@@ -33,10 +33,10 @@ ingredients:
 
 ## Method
 
-1. Cook the edamame according to the package directions, or thaw it in a bowl of hot water. Drain well and pat dry.
-2. Pulse the garlic and chile pepper in a food processor until finely minced. Add the edamame, tahini, avocado, soy sauce, cilantro, sesame oil, lime zest, and 2 tablespoons of the lime juice, and blend, scraping down the sides as needed, until it forms a chunky dip.
-3. Taste and adjust: more lime juice for tang, more sesame oil for nuttiness, more soy sauce for saltiness, and salt as needed.
-4. Toast the bread, then spread a generous layer of the edamame smash on each slice. Top with the hemp seeds, pressing them in, and add sauerkraut or pickled onions if desired.
+1. Cook the **edamame** according to the package directions, or thaw it in a bowl of hot water. Drain well and pat dry.
+2. Pulse the **garlic** and **chile pepper** in a food processor until finely minced. Add the edamame, **tahini**, **avocado**, **soy sauce**, **cilantro**, **sesame oil**, **lime zest**, and 2 tablespoons of the lime juice, and blend, scraping down the sides as needed, until it forms a chunky dip.
+3. Taste and adjust: more lime juice for tang, more sesame oil for nuttiness, more soy sauce for saltiness, and **salt** as needed.
+4. Toast the **bread**, then spread a generous layer of the edamame smash on each slice. Top with the **hemp seeds**, pressing them in, and add **sauerkraut or pickled onions** if desired.
 
 > Remove the membranes from the chile for a milder dip, or swap in flat-leaf parsley if cilantro isn't your thing. For a smoother texture, keep blending and drizzle in a little neutral oil as the machine runs.
 >

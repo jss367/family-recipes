@@ -29,8 +29,8 @@ ingredients:
 
 ## Method
 
-1. Add the milk, lime juice, and spinach to a blender. Blend until the greens are completely smooth.
-2. Add the pineapple, banana, protein powder, chia seeds, and ice.
+1. Add the **milk**, **lime juice**, and **spinach** to a blender. Blend until the greens are completely smooth.
+2. Add the **pineapple**, **banana**, **protein powder**, **chia seeds**, and **ice**.
 3. Blend until thick and creamy, adding a splash of milk if needed. Divide between two glasses and serve immediately.
 
 > For a less sweet shake, replace half of the banana with frozen cauliflower.

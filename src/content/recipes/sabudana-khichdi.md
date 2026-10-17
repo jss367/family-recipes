@@ -29,12 +29,12 @@ ingredients:
 
 ## Method
 
-1. Rinse the sabudana and soak in the water overnight. Drain very well.
-2. Pulse the peanuts with half the cumin seeds until coarsely ground, then mix with the drained sabudana, salt, and sugar.
-3. Heat the oil in a microwave-safe bowl with the remaining cumin seeds, chilies, and curry leaves on high for 1 minute, until the chilies blister.
+1. Rinse the **sabudana** and soak in the **water** overnight. Drain very well.
+2. Pulse the **peanuts** with half the **cumin seeds** until coarsely ground, then mix with the drained sabudana, **salt**, and **sugar**.
+3. Heat the **oil** in a microwave-safe bowl with the remaining cumin seeds, **chilies**, and **curry leaves** on high for 1 minute, until the chilies blister.
 4. Stir in the sabudana mixture and microwave on high for 4 minutes.
 5. Stir again and microwave for another 30 seconds.
-6. Garnish with lemon juice and coriander before serving.
+6. Garnish with **lemon juice** and **coriander** before serving.
 
 > Draining the sabudana thoroughly after soaking is essential — leftover moisture makes it gummy instead of fluffy. Microwave wattages vary, so adjust the time in 1-minute increments as needed. This also works on the stovetop: cook in a pan over low heat for 4 to 5 minutes, until the pearls turn translucent.
 >

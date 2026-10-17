@@ -25,10 +25,10 @@ ingredients:
 ## Method
 
 1. Preheat the oven to 350°F.
-2. Stir together the creamed corn, drained whole kernel corn, corn muffin mix, sour cream, and melted butter in a large bowl, leaving the cheese aside.
+2. Stir together the **creamed corn**, drained **whole kernel corn**, **corn muffin mix**, **sour cream**, and melted **butter** in a large bowl, leaving the cheese aside.
 3. Pour the mixture into a greased 9x13 casserole dish or 10-inch cast iron skillet.
 4. Bake uncovered for 45 minutes.
-5. Sprinkle the cheddar on top and bake for another 10 to 15 minutes, until golden.
+5. Sprinkle the **cheddar** on top and bake for another 10 to 15 minutes, until golden.
 6. Let rest for 5 minutes before serving.
 
 > Add up to 2 tablespoons of sugar if you like it sweeter. This can be assembled ahead without the cheese and refrigerated up to 2 days — let it sit at room temperature for about 30 minutes before baking. Leftovers keep 3 to 4 days in the fridge, or freeze up to 3 months, though it's best fresh.

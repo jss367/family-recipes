@@ -27,7 +27,7 @@ ingredients:
 
 ## Method
 
-1. In a small pressure cooker, combine the ghee, rava, and cashews over low to medium heat. At the same time, in a separate pan, combine the water, sugar, food coloring, saffron, and cardamom, and bring to a simmer.
+1. In a small pressure cooker, combine the **ghee**, **rava**, and **cashews** over low to medium heat. At the same time, in a separate pan, combine the **water**, **sugar**, **food coloring**, **saffron**, and **cardamom**, and bring to a simmer.
 2. Stir the rava mixture continuously for 3 to 5 minutes, until the cashews turn golden, which signals the rava is toasted.
 3. Once the sugar has fully dissolved in the syrup, turn off the heat under both.
 4. Carefully pour the hot syrup into the roasted rava in the pressure cooker.

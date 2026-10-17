@@ -30,11 +30,11 @@ ingredients:
 
 ## Method
 
-1. Heat 1/4 cup water until nearly boiling, then whisk it into a large bowl with the cacao powder and maple syrup until smooth and free of lumps. Let cool for a few minutes.
-2. Whisk in the yogurt and soy milk, then stir in the oats, chia seeds, cinnamon, salt, and vanilla until well combined. Add a splash more milk if the mixture looks too thick.
+1. Heat 1/4 cup water until nearly boiling, then whisk it into a large bowl with the **cacao powder** and **maple syrup** until smooth and free of lumps. Let cool for a few minutes.
+2. Whisk in the **yogurt** and **soy milk**, then stir in the **oats**, **chia seeds**, **cinnamon**, **salt**, and **vanilla** until well combined. Add a splash more milk if the mixture looks too thick.
 3. Divide between jars or a single container, cover, and chill for at least 1 hour, or overnight.
-4. If using protein powder, whisk it with a little water into a smooth, thick slurry, then stir it into a single serving of the oats.
-5. Top with nut butter and berries, if desired.
+4. If using **protein powder**, whisk it with a little water into a smooth, thick slurry, then stir it into a single serving of the oats.
+5. Top with **nut butter** and **berries**, if desired.
 
 > Keeps well in the fridge for up to 5 days, so it's worth making a few servings at once.
 >

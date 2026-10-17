@@ -30,11 +30,11 @@ ingredients:
 
 ## Method
 
-1. Preheat the oven to 420°F. Cook the quinoa according to the package directions and set aside.
-2. Halve the bell peppers and remove the seeds and ribs. Place them cut-side down on a baking dish and bake for 15 minutes.
-3. Meanwhile, brown the soyrizo in a nonstick skillet with a light spray of olive oil, about 5 minutes.
-4. Stir together the quinoa, black beans, soyrizo, tomato sauce, chipotle chili powder, cumin, salt, and pepper in a bowl.
-5. Flip the peppers cut-side up and divide the filling evenly among them. Top with vegan cheese, if using.
+1. Preheat the oven to 420°F. Cook the **quinoa** according to the package directions and set aside.
+2. Halve the **bell peppers** and remove the seeds and ribs. Place them cut-side down on a baking dish and bake for 15 minutes.
+3. Meanwhile, brown the **soyrizo** in a nonstick skillet with a light spray of **olive oil**, about 5 minutes.
+4. Stir together the quinoa, **black beans**, soyrizo, **tomato sauce**, **chipotle chili powder**, **cumin**, **salt**, and **pepper** in a bowl.
+5. Flip the peppers cut-side up and divide the filling evenly among them. Top with **vegan cheese**, if using.
 6. Cover with foil and bake for 25 minutes more, until the peppers are tender.
 
 > These freeze well if you bake them partway, then finish baking straight from frozen when you're ready to eat. Leave out the black beans for a lower-carb version. The tomato sauce is what keeps the filling moist, so don't skip it.

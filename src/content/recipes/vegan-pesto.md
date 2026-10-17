@@ -28,8 +28,8 @@ ingredients:
 
 ## Method
 
-1. Combine the basil, nuts, garlic, lemon juice, nutritional yeast, and salt in a food processor or small blender. Blend on high until a loose paste forms.
-2. With the machine running, stream in the olive oil, scraping down the sides as needed. Add the water a tablespoon at a time until it reaches a thick, pourable consistency.
+1. Combine the **basil**, **nuts**, **garlic**, **lemon juice**, **nutritional yeast**, and **salt** in a food processor or small blender. Blend on high until a loose paste forms.
+2. With the machine running, stream in the **olive oil**, scraping down the sides as needed. Add the **water** a tablespoon at a time until it reaches a thick, pourable consistency.
 3. Taste and adjust: more nutritional yeast for a cheesier flavor, salt for depth, nuts for nuttiness, garlic for bite, or lemon for brightness.
 4. Use on pasta, in sauces and dressings, or spread on bread.
 

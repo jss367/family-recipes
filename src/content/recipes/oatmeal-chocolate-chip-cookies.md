@@ -35,10 +35,10 @@ ingredients:
 ## Method
 
 1. Heat the oven to 350°F. Lightly oil the cookie sheets.
-2. Cream the softened butter, granulated sugar, and brown sugar until light and smooth.
-3. Beat in the eggs and vanilla.
-4. Stir in the flour, salt, baking soda, and cinnamon just until combined.
-5. Fold in the oats, chocolate chips, and pecans or walnuts.
+2. Cream the softened **butter**, **granulated sugar**, and **brown sugar** until light and smooth.
+3. Beat in the **eggs** and **vanilla**.
+4. Stir in the **flour**, **salt**, **baking soda**, and **cinnamon** just until combined.
+5. Fold in the **oats**, **chocolate chips**, and **pecans or walnuts**.
 6. Drop rounded spoonfuls of dough onto the prepared cookie sheets, leaving room between them.
 7. Bake for 10 to 12 minutes, until the edges are lightly golden. Let the cookies rest briefly on the sheets before moving them to a cooling rack.
 

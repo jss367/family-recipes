@@ -39,13 +39,13 @@ ingredients:
 
 ## Method
 
-1. Rinse the lentils until the water runs clear.
-2. Warm the coconut oil in a large skillet over medium heat. Add the garlic, ginger, turmeric, and serrano pepper and cook for about 2 minutes, until fragrant.
-3. Stir in the cumin, coriander, chili powder, curry powder, and garam masala; cook 30 to 60 seconds more.
-4. Pour in the vegetable broth, scraping up any browned bits from the bottom of the skillet.
-5. Add the lentils and crushed tomatoes. Reduce the heat, cover, and simmer for 20 to 25 minutes, until the lentils are soft.
-6. Stir in the coconut milk, almond butter, salt, and pepper. Cook uncovered for 5 to 8 minutes, until creamy.
-7. Finish with the lemon juice and cilantro, then serve over basmati rice with flatbread.
+1. Rinse the **lentils** until the water runs clear.
+2. Warm the **coconut oil** in a large skillet over medium heat. Add the **garlic**, **ginger**, **turmeric**, and **serrano pepper** and cook for about 2 minutes, until fragrant.
+3. Stir in the **cumin**, **coriander**, **chili powder**, **curry powder**, and **garam masala**; cook 30 to 60 seconds more.
+4. Pour in the **vegetable broth**, scraping up any browned bits from the bottom of the skillet.
+5. Add the lentils and **crushed tomatoes**. Reduce the heat, cover, and simmer for 20 to 25 minutes, until the lentils are soft.
+6. Stir in the **coconut milk**, **almond butter**, **salt**, and **pepper**. Cook uncovered for 5 to 8 minutes, until creamy.
+7. Finish with the **lemon juice** and **cilantro**, then serve over **basmati rice** with **flatbread**.
 
 > Skip the peppers for no heat, use one seeded pepper for mild, or two with seeds for more spice. Swap in cashew or tahini for the almond butter if needed, and yellow split lentils work in place of red. For extra creaminess, puree part of the curry with an immersion blender. Keeps in the fridge 3 to 4 days and freezes well.
 >

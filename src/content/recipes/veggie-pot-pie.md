@@ -34,8 +34,8 @@ ingredients:
 ## Method
 
 1. Preheat the oven to 375°F.
-2. Whisk the cornstarch with 5 tablespoons of the vegetable broth to make a slurry. Add the vegetables, remaining broth, coconut milk, beans, salt, pepper, turmeric, garlic powder, sage, onion powder, nutritional yeast, and the cornstarch slurry to a 9x13 casserole dish. Stir until well combined; the mixture will look watery but thickens in the oven.
-3. Drape the puff pastry over the top of the dish, sealing the edges, and cut a few diagonal slits in the top.
+2. Whisk the **cornstarch** with 5 tablespoons of the **vegetable broth** to make a slurry. Add the **vegetables**, remaining broth, **coconut milk**, **beans**, **salt**, **pepper**, **turmeric**, **garlic powder**, **sage**, **onion powder**, **nutritional yeast**, and the cornstarch slurry to a 9x13 casserole dish. Stir until well combined; the mixture will look watery but thickens in the oven.
+3. Drape the **puff pastry** over the top of the dish, sealing the edges, and cut a few diagonal slits in the top.
 4. Bake for 45 to 55 minutes, until the pastry is golden and flaky. Enjoy immediately, or store in the fridge for up to four days.
 
 > Aside from the pastry, this recipe is gluten-free — swap in a GF crust to accommodate allergies. Swap the coconut milk for cashew cream if preferred, and mix and match whichever frozen vegetables you have on hand.

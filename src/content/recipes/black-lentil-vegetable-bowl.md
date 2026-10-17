@@ -31,10 +31,10 @@ ingredients:
 
 ## Method
 
-1. Put the lentils in a small saucepan and cover generously with water. Bring to a boil, reduce to a simmer, and cook until tender but intact, about 20 to 25 minutes. Drain well.
-2. Steam the broccoli and cauliflower until tender, 7 to 9 minutes.
-3. Cook the mushrooms in a dry skillet over medium heat until they release their moisture. Add the garlic, ginger, and cumin, then cook for 1 minute more.
-4. Add the lentils, broccoli, and cauliflower to a bowl. Squeeze over the lime, add the apple cider vinegar, and toss gently.
-5. Finish with the hemp seeds, olive oil, and fermented vegetables.
+1. Put the **lentils** in a small saucepan and cover generously with water. Bring to a boil, reduce to a simmer, and cook until tender but intact, about 20 to 25 minutes. Drain well.
+2. Steam the **broccoli** and **cauliflower** until tender, 7 to 9 minutes.
+3. Cook the **mushrooms** in a dry skillet over medium heat until they release their moisture. Add the **garlic**, **ginger**, and **cumin**, then cook for 1 minute more.
+4. Add the lentils, broccoli, and cauliflower to a bowl. Squeeze over the **lime**, add the **apple cider vinegar**, and toss gently.
+5. Finish with the **hemp seeds**, **olive oil**, and **fermented vegetables**.
 
 > For a softer texture, cook the broccoli and cauliflower for 2 to 3 minutes longer before assembling the bowl.

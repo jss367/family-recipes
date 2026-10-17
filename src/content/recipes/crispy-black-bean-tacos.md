@@ -40,10 +40,10 @@ ingredients:
 ## Method
 
 1. Preheat the oven to 450°F.
-2. Sauté the onion in a pan over medium heat until translucent. Add the garlic, tomato puree, broth, and spices, and cook for 2 minutes, until fragrant.
-3. Stir in the drained beans and broth until combined.
-4. Mash the beans with a potato masher into a thick paste, then finish with the lime juice.
-5. Coat a sheet pan with oil or cooking spray. Lay out the tortillas, spoon about 2 tablespoons of the bean mixture onto each, and top with vegan cheese if using.
+2. Sauté the **onion** in a pan over medium heat until translucent. Add the **garlic**, **tomato puree**, **broth**, and spices, and cook for 2 minutes, until fragrant.
+3. Stir in the drained **beans** and broth until combined.
+4. Mash the beans with a potato masher into a thick paste, then finish with the **lime juice**.
+5. Coat a sheet pan with **oil or cooking spray**. Lay out the **tortillas**, spoon about 2 tablespoons of the bean mixture onto each, and top with **vegan cheese** if using.
 6. Fold the tortillas in half, pressing to seal.
 7. Bake for 5 minutes, then flip and continue baking until crispy.
 8. While the tacos bake, blend the dressing ingredients until smooth.

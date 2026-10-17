@@ -29,10 +29,10 @@ ingredients:
 
 ## Method
 
-1. Roughly chop the bell peppers, carrot, and red onion.
-2. Pat the tofu dry and cut it into bite-sized cubes.
-3. Whisk together the soy sauce, rice vinegar, oyster sauce, and potato starch to make the sauce.
-4. Heat the avocado oil in a nonstick pan over medium heat.
+1. Roughly chop the **bell peppers**, **carrot**, and **red onion**.
+2. Pat the **tofu** dry and cut it into bite-sized cubes.
+3. Whisk together the **soy sauce**, **rice vinegar**, **oyster sauce**, and **potato starch** to make the sauce.
+4. Heat the **avocado oil** in a nonstick pan over medium heat.
 5. Fry the tofu for 3 to 4 minutes, turning occasionally, until browned.
 6. Add the carrot and onion and sauté for about 1 minute.
 7. Add the bell peppers and sauté for 3 to 4 minutes more.

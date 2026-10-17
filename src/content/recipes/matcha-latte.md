@@ -25,9 +25,9 @@ ingredients:
 
 ## Method
 
-1. Add the water to a mug and microwave for 30 seconds.
-2. Add the matcha powder and froth with a handheld frother until fully dissolved and no clumps remain.
-3. Stir in the vanilla syrup, then pour in the soy milk.
+1. Add the **water** to a mug and microwave for 30 seconds.
+2. Add the **matcha powder** and froth with a handheld frother until fully dissolved and no clumps remain.
+3. Stir in the **vanilla syrup**, then pour in the **soy milk**.
 4. Microwave for 70 seconds, until hot.
 
 > Frothing the matcha into the small amount of hot water first is what keeps it from clumping — adding the milk before it's dissolved leaves powdery specks floating on top.
