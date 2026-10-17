@@ -20,7 +20,7 @@ ingredients:
   - 12 ounces chickpea or lentil pasta, shells or elbows
   - 4 cups small broccoli florets, fresh or frozen
   - 1 cup frozen peas
-  - 3 packed cups baby spinach
+  - 3 packed cups (about 4 ounces) baby spinach
   - 1 cup cottage cheese
   - 1 cup cold milk
   - 1 scoop (about 30 grams) unflavored pea protein
