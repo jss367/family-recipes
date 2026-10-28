@@ -8,7 +8,7 @@ const pantryInput = get<HTMLInputElement>('pantry-input');
 const search = get<HTMLInputElement>('recipe-search');
 const cards = [...document.querySelectorAll<HTMLElement>('[data-recipe-card]')];
 const filters = [...document.querySelectorAll<HTMLButtonElement>('.filter-button[data-category]')];
-const weeklyMenu = get<HTMLDetailsElement>('weekly-menu');
+const weeklyMenu = get<HTMLDialogElement>('weekly-menu');
 const status = get('planner-status');
 let selectedCategory = 'all';
 let menuSignature = '';
@@ -85,7 +85,7 @@ function renderMenu() {
 				saveState();
 				status.textContent = `${recipe.title} removed from your menu.`;
 				const buttons = menu.querySelectorAll('button');
-				(buttons[Math.min(index, buttons.length - 1)] ?? weeklyMenu.querySelector('summary'))?.focus();
+				(buttons[Math.min(index, buttons.length - 1)] ?? get('close-menu')).focus();
 			});
 			item.append(info, remove);
 			menu.append(item);
@@ -169,7 +169,7 @@ get('clear-menu').addEventListener('click', () => {
 	state.checked = [];
 	saveState();
 	status.textContent = 'Menu cleared. Choose recipes below for a new week.';
-	weeklyMenu.querySelector('summary')?.focus();
+	get('close-menu').focus();
 });
 get('check-pantry').addEventListener('click', () => {
 	const pantry = parsePantry(state.pantry);
@@ -200,8 +200,19 @@ get('copy-groceries').addEventListener('click', async () => {
 		status.textContent = 'Select and copy your grocery list from the text box.';
 	}
 });
-function openMenuFromHash() { if (location.hash === '#weekly-menu') weeklyMenu.open = true; }
-document.querySelector('.menu-link')?.addEventListener('click', () => { weeklyMenu.open = true; });
+function openMenu() { if (!weeklyMenu.open) weeklyMenu.showModal(); }
+function openMenuFromHash() {
+	if (location.hash !== '#weekly-menu') return;
+	openMenu();
+	history.replaceState(null, '', location.pathname + location.search);
+}
+document.querySelectorAll('[data-menu-toggle]').forEach((toggle) => toggle.addEventListener('click', (event) => {
+	event.preventDefault();
+	openMenu();
+}));
+get('close-menu').addEventListener('click', () => weeklyMenu.close());
+// Clicks on the backdrop land on the dialog element itself.
+weeklyMenu.addEventListener('click', (event) => { if (event.target === weeklyMenu) weeklyMenu.close(); });
 window.addEventListener('hashchange', openMenuFromHash);
 window.addEventListener('planner-change', render);
 state.menu = state.menu.filter((id) => byId.has(id));

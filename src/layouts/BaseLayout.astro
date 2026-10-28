@@ -1,5 +1,5 @@
 ---
-import { BookOpen } from '@lucide/astro';
+import { BookOpen, ShoppingBasket } from '@lucide/astro';
 import '../styles/global.css';
 
 interface Props {
@@ -33,7 +33,11 @@ const pageTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
 					<span class="brand-mark"><BookOpen size={20} stroke-width={1.8} /></span>
 					<span>{siteTitle}</span>
 				</a>
-				<span class="header-note">Made and shared at home</span>
+				<a class="menu-toggle" href={`${base}/#weekly-menu`} data-menu-toggle>
+					<ShoppingBasket size={18} aria-hidden="true" />
+					<span>Menu &amp; groceries</span>
+					<span class="menu-badge" data-menu-number aria-label="0 recipes">0</span>
+				</a>
 			</div>
 		</header>
 		<main>
