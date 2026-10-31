@@ -10,6 +10,10 @@ function updateButtons() {
 	document.querySelectorAll('[data-menu-count]').forEach((label) => {
 		label.textContent = `${state.menu.length} recipe${state.menu.length === 1 ? '' : 's'}`;
 	});
+	document.querySelectorAll('[data-menu-number]').forEach((badge) => {
+		badge.textContent = String(state.menu.length);
+		badge.setAttribute('aria-label', `${state.menu.length} recipe${state.menu.length === 1 ? '' : 's'}`);
+	});
 }
 
 document.querySelectorAll<HTMLButtonElement>('[data-menu-recipe]').forEach((button) => {
