@@ -14,15 +14,23 @@ cookTime: 15
 servings: 2
 dateAdded: 2026-09-25
 ingredients:
-  - 1 cup Greek yogurt
-  - 1 garlic clove, finely grated
-  - Kosher salt and black pepper, to taste
-  - 4 large eggs
-  - 1 tablespoon white vinegar or apple cider vinegar
-  - 4 tablespoons unsalted butter
-  - 2 teaspoons Aleppo pepper
-  - 1 teaspoon paprika
-  - Chopped fresh herbs, for garnish (dill, parsley, mint, etc.)
+  - heading: For the garlic yogurt
+    items:
+      - 1 cup Greek yogurt
+      - 1 garlic clove, finely grated
+      - Kosher salt and black pepper, to taste
+  - heading: For the spiced butter
+    items:
+      - 4 tablespoons unsalted butter
+      - 2 teaspoons Aleppo pepper
+      - 1 teaspoon paprika
+  - heading: For the poached eggs
+    items:
+      - 4 large eggs
+      - 1 tablespoon white vinegar or apple cider vinegar
+  - heading: For serving
+    items:
+      - Chopped fresh herbs, for garnish (dill, parsley, mint, etc.)
 ---
 
 ## Method

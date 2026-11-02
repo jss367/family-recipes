@@ -14,15 +14,21 @@ cookTime: 20
 servings: 12
 dateAdded: 2026-10-03
 ingredients:
-  - 1 cup unsalted butter, softened
-  - 1/4 cup granulated sugar
-  - 1/3 cup powdered sugar
-  - 1 teaspoon vanilla extract
-  - 1 teaspoon almond extract
-  - 2 1/4 cups all-purpose flour
-  - 1/4 teaspoon kosher salt
-  - 1/2 cup raspberry jam
-  - Powdered sugar, for dusting (optional)
+  - heading: For the cookie dough and crumble
+    items:
+      - 1 cup unsalted butter, softened
+      - 1/4 cup granulated sugar
+      - 1/3 cup powdered sugar
+      - 1 teaspoon vanilla extract
+      - 1 teaspoon almond extract
+      - 2 1/4 cups all-purpose flour
+      - 1/4 teaspoon kosher salt
+  - heading: For the filling
+    items:
+      - 1/2 cup raspberry jam
+  - heading: For serving
+    items:
+      - Powdered sugar, for dusting (optional)
 ---
 
 ## Method

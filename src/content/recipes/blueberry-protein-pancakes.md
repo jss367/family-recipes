@@ -17,18 +17,22 @@ servings: 4
 author: Sunday mornings
 dateAdded: 2026-09-05
 ingredients:
-  - 1 1/2 cups oat flour
-  - 1/2 cup vanilla or unflavored protein powder
-  - 2 teaspoons baking powder
-  - 1/2 teaspoon ground cinnamon
-  - 1/2 teaspoon kosher salt
-  - 1 cup cottage cheese
-  - 3 large eggs
-  - 3/4 cup milk, plus more as needed
-  - 1 teaspoon vanilla extract
-  - 1 cup fresh or frozen blueberries
-  - Butter or neutral oil, for the pan
-  - Maple syrup, for serving
+  - heading: For the pancakes
+    items:
+      - 1 1/2 cups oat flour
+      - 1/2 cup vanilla or unflavored protein powder
+      - 2 teaspoons baking powder
+      - 1/2 teaspoon ground cinnamon
+      - 1/2 teaspoon kosher salt
+      - 1 cup cottage cheese
+      - 3 large eggs
+      - 3/4 cup milk, plus more as needed
+      - 1 teaspoon vanilla extract
+      - 1 cup fresh or frozen blueberries
+      - Butter or neutral oil, for the pan
+  - heading: For serving
+    items:
+      - Maple syrup, for serving
 ---
 
 ## Method

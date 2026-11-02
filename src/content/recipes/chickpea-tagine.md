@@ -16,29 +16,38 @@ cookTime: 60
 servings: 6
 dateAdded: 2026-09-13
 ingredients:
-  - 2 tablespoons extra-virgin olive oil, plus more for drizzling
-  - 1 large yellow onion, diced
-  - 1 medium red bell pepper, chopped
-  - 6 garlic cloves, finely chopped
-  - 1 cinnamon stick (optional)
-  - 1 tablespoon ras el hanout
-  - 1 teaspoon ground coriander
-  - 1/2 teaspoon ground cinnamon
-  - 1/2 teaspoon ground cumin
-  - 1/4 teaspoon ground ginger
-  - 1/4 teaspoon ground turmeric
-  - 1/4 to 1/2 teaspoon cayenne pepper (optional)
-  - Pinch of ground cloves
-  - Kosher salt and black pepper, to taste
-  - 2 cups vegetable broth
-  - 3 cups butternut squash, peeled and finely diced
-  - 2 (15 oz) cans chickpeas, drained and rinsed
-  - 2 bay leaves
-  - 14.5 oz crushed tomatoes, one can
-  - 3 to 6 Medjool dates, chopped
-  - 1 lemon, zested and juiced
-  - 1 handful flat-leaf parsley or cilantro, chopped
-  - 5 oz plain vegan yogurt, 2 teaspoons lemon juice, and 1/2 teaspoon ground coriander, for the yogurt sauce (optional)
+  - heading: For the tagine
+    items:
+      - 2 tablespoons extra-virgin olive oil, plus more for drizzling
+      - 1 large yellow onion, diced
+      - 1 medium red bell pepper, chopped
+      - 6 garlic cloves, finely chopped
+      - 1 cinnamon stick (optional)
+      - 1 tablespoon ras el hanout
+      - 1 teaspoon ground coriander
+      - 1/2 teaspoon ground cinnamon
+      - 1/2 teaspoon ground cumin
+      - 1/4 teaspoon ground ginger
+      - 1/4 teaspoon ground turmeric
+      - 1/4 to 1/2 teaspoon cayenne pepper (optional)
+      - Pinch of ground cloves
+      - Kosher salt and black pepper, to taste
+      - 2 cups vegetable broth
+      - 3 cups butternut squash, peeled and finely diced
+      - 2 (15 oz) cans chickpeas, drained and rinsed
+      - 2 bay leaves
+      - 14.5 oz crushed tomatoes, one can
+      - 3 to 6 Medjool dates, chopped
+      - 1 lemon, zested and juiced
+  - heading: For the yogurt sauce (optional)
+    items:
+      - 5 oz plain vegan yogurt (optional)
+      - 2 teaspoons lemon juice (optional)
+      - 1/2 teaspoon ground coriander (optional)
+      - Pinch of kosher salt (optional)
+  - heading: For serving
+    items:
+      - 1 handful flat-leaf parsley or cilantro, chopped
 ---
 
 ## Method

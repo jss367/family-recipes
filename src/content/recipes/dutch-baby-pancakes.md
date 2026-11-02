@@ -14,13 +14,17 @@ cookTime: 15
 servings: 4
 dateAdded: 2026-09-17
 ingredients:
-  - 3 eggs
-  - 1/2 cup milk
-  - 1/2 cup flour
-  - Pinch of salt
-  - 1/2 stick butter
-  - Lemon juice and powdered sugar, for serving
-  - Fresh berries, for topping (optional)
+  - heading: For the pancake
+    items:
+      - 3 eggs
+      - 1/2 cup milk
+      - 1/2 cup flour
+      - Pinch of salt
+      - 1/2 stick butter
+  - heading: For serving
+    items:
+      - Lemon juice and powdered sugar, for serving
+      - Fresh berries, for topping (optional)
 ---
 
 ## Method

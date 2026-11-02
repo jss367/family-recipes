@@ -11,6 +11,22 @@ A personal family cookbook built with Astro and Markdown, hosted on GitHub Pages
 
 The content schema is defined in `src/content.config.ts`. It checks required fields during the build so incomplete recipes are caught before deployment.
 
+For recipes with distinct components, group ingredients in preparation order:
+
+```yaml
+ingredients:
+  - heading: For the rice
+    items:
+      - 1/2 cup jasmine rice
+      - 1/2 cup water
+  - heading: For the sauce
+    items:
+      - 1 tablespoon soy sauce
+      - 1 teaspoon sesame oil
+```
+
+List each component's share of a divided ingredient under that component. Simple recipes can keep a plain list of ingredient strings. Search, pantry matching, and grocery lists include ingredients from every group automatically.
+
 ## Pantry and weekly menu
 
 Enter comma-separated pantry ingredients on the home page to rank recipes by the proportion of required ingredients on hand. Open a recipe’s missing-ingredients list to see what else you need. Water, ice, and explicitly optional ingredients are excluded from the ranking. Matching checks ingredient names, not available quantities, and recognizes common varieties and aliases.

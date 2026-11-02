@@ -16,17 +16,21 @@ cookTime: 35
 servings: 8
 dateAdded: 2026-09-19
 ingredients:
-  - 8 large tortillas
-  - 2 tablespoons olive oil
-  - 1 head cauliflower, broken into florets
-  - 15 oz canned chickpeas, drained and rinsed
-  - 1 teaspoon garlic powder
-  - 1 teaspoon paprika
-  - 1/2 cup creamy buffalo sauce
-  - 1/2 red bell pepper, diced
-  - 1/2 red onion, diced
-  - 2 sprigs green onion, diced
-  - 1/2 cup shredded vegan cheese (optional)
+  - heading: For the buffalo cauliflower and chickpeas
+    items:
+      - 2 tablespoons olive oil
+      - 1 head cauliflower, broken into florets
+      - 15 oz canned chickpeas, drained and rinsed
+      - 1 teaspoon garlic powder
+      - 1 teaspoon paprika
+      - 1/2 cup creamy buffalo sauce
+  - heading: For assembling the quesadillas
+    items:
+      - 8 large tortillas
+      - 1/2 red bell pepper, diced
+      - 1/2 red onion, diced
+      - 2 sprigs green onion, diced
+      - 1/2 cup shredded vegan cheese (optional)
 ---
 
 ## Method

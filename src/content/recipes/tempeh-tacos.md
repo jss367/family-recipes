@@ -16,25 +16,33 @@ cookTime: 20
 servings: 12
 dateAdded: 2026-09-19
 ingredients:
-  - 2 Fresno chiles or jalapeños, thinly sliced
-  - 1 large shallot, thinly sliced
-  - 1/2 cup distilled white vinegar
-  - 1 1/2 tablespoons maple syrup
-  - Kosher salt, to taste
-  - 2 (8 oz) blocks tempeh
-  - 4 tablespoons avocado oil or other neutral high-heat oil
-  - 2 tablespoons tamari or soy sauce
-  - 1 tablespoon plus 1 teaspoon fresh lime juice
-  - 2 small or 1 extra-large ripe avocado
-  - 1/4 cup vegan sour cream or tangy coconut yogurt
-  - 2 garlic cloves, roughly chopped
-  - 3 tablespoons fresh lime juice
-  - 1/2 teaspoon ground cumin
-  - 3/4 cup cilantro leaves and tender stems
-  - 1/2 to 3/4 teaspoon kosher salt
-  - Black pepper, to taste
-  - 12 corn tortillas
-  - Chopped cilantro and lime wedges, for serving (optional)
+  - heading: For the quick-pickled vegetables
+    items:
+      - 2 Fresno chiles or jalapeños, thinly sliced
+      - 1 large shallot, thinly sliced
+      - 1/2 cup distilled white vinegar
+      - 1 1/2 tablespoons maple syrup
+      - Kosher salt, to taste
+  - heading: For the crispy tempeh
+    items:
+      - 2 (8 oz) blocks tempeh
+      - 4 tablespoons avocado oil or other neutral high-heat oil
+      - 2 tablespoons tamari or soy sauce
+      - 1 tablespoon plus 1 teaspoon fresh lime juice
+  - heading: For the avocado crema
+    items:
+      - 2 small or 1 extra-large ripe avocado
+      - 1/4 cup vegan sour cream or tangy coconut yogurt
+      - 2 garlic cloves, roughly chopped
+      - 3 tablespoons fresh lime juice
+      - 1/2 teaspoon ground cumin
+      - 3/4 cup cilantro leaves and tender stems
+      - 1/2 to 3/4 teaspoon kosher salt
+      - Black pepper, to taste
+  - heading: For serving
+    items:
+      - 12 corn tortillas
+      - Chopped cilantro and lime wedges, for serving (optional)
 ---
 
 ## Method

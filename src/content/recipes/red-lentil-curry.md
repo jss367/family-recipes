@@ -16,25 +16,29 @@ cookTime: 35
 servings: 4
 dateAdded: 2026-09-13
 ingredients:
-  - 1 tablespoon coconut oil
-  - 4 garlic cloves, minced
-  - 2-inch piece fresh ginger, minced
-  - 1 tablespoon fresh turmeric, minced (or 1 teaspoon ground turmeric)
-  - 1 to 2 serrano peppers, diced (remove seeds for less heat)
-  - 1 teaspoon ground cumin
-  - 1/2 teaspoon ground coriander
-  - 1/2 teaspoon red chili powder
-  - 2 teaspoons curry powder
-  - 1 teaspoon garam masala
-  - Kosher salt and black pepper, to taste
-  - 1 cup dry red lentils, rinsed
-  - 2 cups low-sodium vegetable broth
-  - 14 oz crushed tomatoes, one can
-  - 13.5 oz full-fat coconut milk, one can
-  - 3 tablespoons creamy almond butter
-  - 1/2 lemon, juiced
-  - 1/2 cup fresh cilantro, chopped
-  - Basmati rice and flatbread, for serving
+  - heading: For the curry
+    items:
+      - 1 tablespoon coconut oil
+      - 4 garlic cloves, minced
+      - 2-inch piece fresh ginger, minced
+      - 1 tablespoon fresh turmeric, minced (or 1 teaspoon ground turmeric)
+      - 1 to 2 serrano peppers, diced (remove seeds for less heat)
+      - 1 teaspoon ground cumin
+      - 1/2 teaspoon ground coriander
+      - 1/2 teaspoon red chili powder
+      - 2 teaspoons curry powder
+      - 1 teaspoon garam masala
+      - Kosher salt and black pepper, to taste
+      - 1 cup dry red lentils, rinsed
+      - 2 cups low-sodium vegetable broth
+      - 14 oz crushed tomatoes, one can
+      - 13.5 oz full-fat coconut milk, one can
+      - 3 tablespoons creamy almond butter
+      - 1/2 lemon, juiced
+      - 1/2 cup fresh cilantro, chopped
+  - heading: For serving
+    items:
+      - Basmati rice and flatbread, for serving
 ---
 
 ## Method

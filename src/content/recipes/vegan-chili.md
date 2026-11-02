@@ -16,32 +16,36 @@ cookTime: 110
 servings: 6
 dateAdded: 2026-09-13
 ingredients:
-  - 3 tablespoons olive oil
-  - 1 large yellow onion, diced
-  - 6 garlic cloves, finely chopped
-  - 2 jalapeños, diced
-  - 2 tablespoons tomato paste
-  - 4 tablespoons chili powder
-  - 1 tablespoon ground cumin
-  - 1 1/2 teaspoons smoked paprika
-  - 1 tablespoon Mexican oregano
-  - 3/4 cup dry red wine
-  - 2 cups vegetable broth
-  - 2 (15 oz) cans pinto beans, drained and rinsed
-  - 1 (15 oz) can navy beans, drained and rinsed
-  - 2 tablespoons cocoa powder
-  - 2 bay leaves
-  - 1 1/2 tablespoons tamari or soy sauce
-  - 2 chipotle peppers in adobo, plus 1 tablespoon adobo sauce
-  - 28 oz whole peeled tomatoes, one can, crushed by hand
-  - 1 1/2 teaspoons kosher salt
-  - Black pepper, to taste
-  - 1 1/2 tablespoons maple syrup, plus more to taste
-  - 1 to 1 1/2 tablespoons lime juice
-  - 1 teaspoon red wine vinegar
-  - 3 tablespoons masa harina (optional)
-  - 1 cup cilantro leaves and tender stems, chopped
-  - Vegan sour cream, avocado, scallions, shredded vegan cheese, and pickled red onions, for serving (optional)
+  - heading: For the chili
+    items:
+      - 3 tablespoons olive oil
+      - 1 large yellow onion, diced
+      - 6 garlic cloves, finely chopped
+      - 2 jalapeños, diced
+      - 2 tablespoons tomato paste
+      - 4 tablespoons chili powder
+      - 1 tablespoon ground cumin
+      - 1 1/2 teaspoons smoked paprika
+      - 1 tablespoon Mexican oregano
+      - 3/4 cup dry red wine
+      - 2 cups vegetable broth
+      - 2 (15 oz) cans pinto beans, drained and rinsed
+      - 1 (15 oz) can navy beans, drained and rinsed
+      - 2 tablespoons cocoa powder
+      - 2 bay leaves
+      - 1 1/2 tablespoons tamari or soy sauce
+      - 2 chipotle peppers in adobo, plus 1 tablespoon adobo sauce
+      - 28 oz whole peeled tomatoes, one can, crushed by hand
+      - 1 1/2 teaspoons kosher salt
+      - Black pepper, to taste
+      - 1 1/2 tablespoons maple syrup, plus more to taste
+      - 1 to 1 1/2 tablespoons lime juice
+      - 1 teaspoon red wine vinegar
+      - 3 tablespoons masa harina (optional)
+      - 1 cup cilantro leaves and tender stems, chopped
+  - heading: For the toppings
+    items:
+      - Vegan sour cream, avocado, scallions, shredded vegan cheese, and pickled red onions, for serving (optional)
 ---
 
 ## Method

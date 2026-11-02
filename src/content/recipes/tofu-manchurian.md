@@ -15,16 +15,20 @@ cookTime: 15
 servings: 2
 dateAdded: 2026-09-13
 ingredients:
-  - 1/2 red bell pepper
-  - 1/2 green bell pepper
-  - 1 carrot
-  - 1/2 red onion
-  - 200g extra-firm tofu
-  - 1 1/2 tablespoons soy sauce
-  - 1 teaspoon rice vinegar
-  - 1 tablespoon plant-based oyster sauce
-  - 1/4 teaspoon potato starch
-  - 3 tablespoons avocado oil
+  - heading: For the tofu and vegetables
+    items:
+      - 1/2 red bell pepper
+      - 1/2 green bell pepper
+      - 1 carrot
+      - 1/2 red onion
+      - 200g extra-firm tofu
+      - 3 tablespoons avocado oil
+  - heading: For the Manchurian sauce
+    items:
+      - 1 1/2 tablespoons soy sauce
+      - 1 teaspoon rice vinegar
+      - 1 tablespoon plant-based oyster sauce
+      - 1/4 teaspoon potato starch
 ---
 
 ## Method

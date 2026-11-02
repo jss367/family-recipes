@@ -16,32 +16,38 @@ cookTime: 45
 servings: 4
 dateAdded: 2026-10-31
 ingredients:
-  - 1 small head cauliflower, cut into florets (about 4 cups)
-  - 7 tablespoons flour (rice or all-purpose)
-  - 1/4 cup cornstarch, for the batter
-  - 1/2 teaspoon garlic powder
-  - 1/4 teaspoon salt
-  - 1/2 teaspoon baking powder
-  - 2 teaspoons oil, for the batter
-  - 1 teaspoon soy sauce, for the batter
-  - 1/3 to 1/2 cup water, for the batter
-  - 1/4 cup panko
-  - 2 teaspoons oil, for the sauce
-  - 6 to 8 cloves garlic, finely chopped
-  - 1-inch piece ginger, finely chopped
-  - 1/2 green or red chili, seeded and finely chopped
-  - 1/2 cup finely chopped onion
-  - 1/2 cup finely chopped green bell pepper
-  - 2 tablespoons finely chopped celery (optional)
-  - 1 tablespoon chili sauce, such as sambal oelek
-  - 1/4 cup soy sauce, for the sauce
-  - 1 tablespoon ketchup
-  - 2 teaspoons rice vinegar or apple cider vinegar
-  - 1/8 teaspoon black pepper
-  - 2 to 3 teaspoons sugar or maple syrup
-  - 1 1/2 teaspoons cornstarch, for the slurry
-  - 1/2 cup water, for the slurry
-  - Sliced green onions, for garnish
+  - heading: For the baked cauliflower
+    items:
+      - 1 small head cauliflower, cut into florets (about 4 cups)
+      - 7 tablespoons flour (rice or all-purpose)
+      - 1/4 cup cornstarch, for the batter
+      - 1/2 teaspoon garlic powder
+      - 1/4 teaspoon salt
+      - 1/2 teaspoon baking powder
+      - 2 teaspoons oil, for the batter
+      - 1 teaspoon soy sauce, for the batter
+      - 1/3 to 1/2 cup water, for the batter
+      - 1/4 cup panko
+  - heading: For the Manchurian sauce
+    items:
+      - 2 teaspoons oil, for the sauce
+      - 6 to 8 cloves garlic, finely chopped
+      - 1-inch piece ginger, finely chopped
+      - 1/2 green or red chili, seeded and finely chopped
+      - 1/2 cup finely chopped onion
+      - 1/2 cup finely chopped green bell pepper
+      - 2 tablespoons finely chopped celery (optional)
+      - 1 tablespoon chili sauce, such as sambal oelek
+      - 1/4 cup soy sauce, for the sauce
+      - 1 tablespoon ketchup
+      - 2 teaspoons rice vinegar or apple cider vinegar
+      - 1/8 teaspoon black pepper
+      - 2 to 3 teaspoons sugar or maple syrup
+      - 1 1/2 teaspoons cornstarch, for the slurry
+      - 1/2 cup water, for the slurry
+  - heading: For serving
+    items:
+      - Sliced green onions, for garnish
 ---
 
 ## Method

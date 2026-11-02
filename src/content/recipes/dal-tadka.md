@@ -16,27 +16,33 @@ cookTime: 50
 servings: 4
 dateAdded: 2026-09-13
 ingredients:
-  - 1 cup split yellow lentils (moong dal)
-  - 1 to 2 tablespoons coconut oil
-  - 1 medium yellow onion, diced
-  - 4 garlic cloves, finely chopped
-  - 1-inch piece fresh ginger, grated
-  - 1 serrano pepper, finely chopped
-  - 1 teaspoon Madras curry powder
-  - 1 teaspoon garam masala
-  - 1/4 teaspoon ground coriander
-  - 1/4 teaspoon ground turmeric
-  - 2 1/2 to 3 1/2 cups water
-  - Kosher salt and black pepper, to taste
-  - 14.5 oz crushed or diced tomatoes, one can
-  - 1 handful fresh cilantro, chopped
-  - 1 1/2 to 2 tablespoons coconut oil, for the tadka
-  - 1 teaspoon black mustard seeds
-  - 1/2 teaspoon cumin seeds
-  - 1 to 2 pinches asafoetida (optional)
-  - About 10 fresh curry leaves
-  - 1 to 2 dried red chile peppers (optional)
-  - Basmati rice or flatbread, coconut yogurt, and sliced red onion, for serving (optional)
+  - heading: For the dal
+    items:
+      - 1 cup split yellow lentils (moong dal)
+      - 1 to 2 tablespoons coconut oil
+      - 1 medium yellow onion, diced
+      - 4 garlic cloves, finely chopped
+      - 1-inch piece fresh ginger, grated
+      - 1 serrano pepper, finely chopped
+      - 1 teaspoon Madras curry powder
+      - 1 teaspoon garam masala
+      - 1/4 teaspoon ground coriander
+      - 1/4 teaspoon ground turmeric
+      - 2 1/2 to 3 1/2 cups water
+      - Kosher salt and black pepper, to taste
+      - 14.5 oz crushed or diced tomatoes, one can
+      - 1 handful fresh cilantro, chopped
+  - heading: For the spiced oil (tadka)
+    items:
+      - 1 1/2 to 2 tablespoons coconut oil, for the tadka
+      - 1 teaspoon black mustard seeds
+      - 1/2 teaspoon cumin seeds
+      - 1 to 2 pinches asafoetida (optional)
+      - About 10 fresh curry leaves
+      - 1 to 2 dried red chile peppers (optional)
+  - heading: For serving
+    items:
+      - Basmati rice or flatbread, coconut yogurt, and sliced red onion, for serving (optional)
 ---
 
 ## Method

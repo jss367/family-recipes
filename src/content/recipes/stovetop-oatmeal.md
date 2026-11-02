@@ -15,11 +15,15 @@ cookTime: 7
 servings: 1
 dateAdded: 2026-09-19
 ingredients:
-  - 1/2 cup old-fashioned oats
-  - 1 cup water or milk (or half-and-half for creamier oats)
-  - Pinch of salt
-  - 1 to 2 teaspoons brown sugar, maple syrup, honey, or cinnamon and sugar, to taste
-  - Sliced banana, raisins, berries, chopped nuts, cinnamon, or a splash of vanilla, for topping (optional)
+  - heading: For the oatmeal
+    items:
+      - 1/2 cup old-fashioned oats
+      - 1 cup water or milk (or half-and-half for creamier oats)
+      - Pinch of salt
+      - 1 to 2 teaspoons brown sugar, maple syrup, honey, or cinnamon and sugar, to taste
+  - heading: For the toppings
+    items:
+      - Sliced banana, raisins, berries, chopped nuts, cinnamon, or a splash of vanilla, for topping (optional)
 ---
 
 ## Method

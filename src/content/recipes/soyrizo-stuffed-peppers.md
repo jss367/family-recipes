@@ -16,16 +16,22 @@ cookTime: 40
 servings: 6
 dateAdded: 2026-09-13
 ingredients:
-  - 7.7 oz soyrizo (about one package)
-  - 3 bell peppers, assorted colors
-  - 2 cups cooked quinoa
-  - 1 (15 oz) can black beans, drained
-  - 8 oz no-salt-added tomato sauce
-  - 1 tablespoon chipotle chili powder
-  - 3/4 tablespoon ground cumin
-  - Salt and black pepper, to taste
-  - Olive oil spray
-  - Shredded vegan cheese, for topping (optional)
+  - heading: For the peppers
+    items:
+      - 3 bell peppers, assorted colors
+  - heading: For the soyrizo filling
+    items:
+      - 7.7 oz soyrizo (about one package)
+      - 2 cups cooked quinoa
+      - 1 (15 oz) can black beans, drained
+      - 8 oz no-salt-added tomato sauce
+      - 1 tablespoon chipotle chili powder
+      - 3/4 tablespoon ground cumin
+      - Salt and black pepper, to taste
+      - Olive oil spray
+  - heading: For the topping
+    items:
+      - Shredded vegan cheese, for topping (optional)
 ---
 
 ## Method

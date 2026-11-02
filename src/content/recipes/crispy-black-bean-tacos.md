@@ -16,25 +16,31 @@ cookTime: 15
 servings: 4
 dateAdded: 2026-09-19
 ingredients:
-  - 1/2 yellow onion, diced
-  - 3 garlic cloves, minced
-  - 2 tablespoons tomato puree
-  - 2 teaspoons chili powder
-  - 2 teaspoons ground cumin
-  - 1 teaspoon paprika
-  - 1 tablespoon nutritional yeast
-  - 1 teaspoon salt
-  - 2 (15 oz) cans black beans, drained and rinsed
-  - 1/4 cup vegetable broth
-  - 1 lime, juiced
-  - 12 corn tortillas
-  - 1/2 cup shredded vegan cheese (optional)
-  - 2 tablespoons olive oil or cooking spray
-  - 1 handful cilantro, chopped
-  - 1 garlic clove
-  - 1/2 teaspoon salt
-  - 1 cup unsweetened vegan yogurt
-  - 1 lime, juiced
+  - heading: For the black bean filling
+    items:
+      - 1/2 yellow onion, diced
+      - 3 garlic cloves, minced
+      - 2 tablespoons tomato puree
+      - 2 teaspoons chili powder
+      - 2 teaspoons ground cumin
+      - 1 teaspoon paprika
+      - 1 tablespoon nutritional yeast
+      - 1 teaspoon salt
+      - 2 (15 oz) cans black beans, drained and rinsed
+      - 1/4 cup vegetable broth
+      - 1 lime, juiced
+  - heading: For assembling the tacos
+    items:
+      - 12 corn tortillas
+      - 1/2 cup shredded vegan cheese (optional)
+      - 2 tablespoons olive oil or cooking spray
+  - heading: For the cilantro-lime dressing
+    items:
+      - 1 handful cilantro, chopped
+      - 1 garlic clove
+      - 1/2 teaspoon salt
+      - 1 cup unsweetened vegan yogurt
+      - 1 lime, juiced
 ---
 
 ## Method

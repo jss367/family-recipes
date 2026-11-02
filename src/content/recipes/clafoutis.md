@@ -15,17 +15,24 @@ cookTime: 45
 servings: 8
 dateAdded: 2026-09-13
 ingredients:
-  - 12 oz fresh raspberries, blueberries, blackberries, or sliced strawberries, or 1 lb dark cherries, pitted and halved
-  - 2 tablespoons unsalted butter
-  - 1 cup almond milk or whole milk
-  - 1/4 cup heavy cream
-  - 1/3 cup granulated sugar, plus 1 tablespoon for topping
-  - 3 eggs
-  - 1 tablespoon vanilla extract
-  - 1/2 teaspoon almond extract
-  - 1/4 teaspoon fine salt
-  - 1/2 cup all-purpose flour
-  - Whipped cream or vanilla ice cream, for serving (optional)
+  - heading: For the fruit and pan
+    items:
+      - 12 oz fresh raspberries, blueberries, blackberries, or sliced strawberries, or 1 lb dark cherries, pitted and halved
+      - 2 tablespoons unsalted butter
+  - heading: For the batter
+    items:
+      - 1 cup almond milk or whole milk
+      - 1/4 cup heavy cream
+      - 1/3 cup granulated sugar
+      - 3 eggs
+      - 1 tablespoon vanilla extract
+      - 1/2 teaspoon almond extract
+      - 1/4 teaspoon fine salt
+      - 1/2 cup all-purpose flour
+  - heading: For the topping and serving
+    items:
+      - 1 tablespoon granulated sugar
+      - Whipped cream or vanilla ice cream, for serving (optional)
 ---
 
 ## Method
