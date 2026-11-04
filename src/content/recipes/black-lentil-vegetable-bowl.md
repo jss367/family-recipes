@@ -15,18 +15,28 @@ cookTime: 30
 servings: 1
 dateAdded: 2026-09-07
 ingredients:
-  - 45 grams dry black lentils, rinsed
-  - 250 grams broccoli, florets and chopped stalk
-  - 150 grams cauliflower florets
-  - 50 grams shiitake or white mushrooms, sliced
-  - 1 garlic clove, minced
-  - 3 grams fresh ginger, grated
-  - 1 tablespoon ground cumin
-  - 1 lime
-  - 1 tablespoon apple cider vinegar
-  - 1 tablespoon hemp seeds
-  - 1 tablespoon extra-virgin olive oil
-  - 1 to 4 tablespoons fermented cabbage, kimchi, or beets
+  - heading: For the lentils
+    items:
+      - 45 grams dry black lentils, rinsed
+  - heading: For the steamed vegetables
+    items:
+      - 250 grams broccoli, florets and chopped stalk
+      - 150 grams cauliflower florets
+  - heading: For the mushrooms
+    items:
+      - 50 grams shiitake or white mushrooms, sliced
+      - 1 garlic clove, minced
+      - 3 grams fresh ginger, grated
+      - 1 tablespoon ground cumin
+  - heading: For the dressing
+    items:
+      - 1 lime
+      - 1 tablespoon apple cider vinegar
+      - 1 tablespoon extra-virgin olive oil
+  - heading: For the toppings
+    items:
+      - 1 tablespoon hemp seeds
+      - 1 to 4 tablespoons fermented cabbage, kimchi, or beets
 ---
 
 ## Method

@@ -15,14 +15,18 @@ cookTime: 20
 servings: 5
 dateAdded: 2026-09-15
 ingredients:
-  - 1/2 cup rava (semolina)
-  - 1/4 cup ghee
-  - 2 tablespoons chopped cashews
-  - 1 cup sugar
-  - 1 1/2 cups water
-  - 1/2 teaspoon kesari or orange food coloring
-  - 7 to 8 saffron strands
-  - 1/2 teaspoon ground cardamom
+  - heading: For the toasted semolina
+    items:
+      - 1/2 cup rava (semolina)
+      - 1/4 cup ghee
+      - 2 tablespoons chopped cashews
+  - heading: For the saffron syrup
+    items:
+      - 1 cup sugar
+      - 1 1/2 cups water
+      - 1/2 teaspoon kesari or orange food coloring
+      - 7 to 8 saffron strands
+      - 1/2 teaspoon ground cardamom
 ---
 
 ## Method

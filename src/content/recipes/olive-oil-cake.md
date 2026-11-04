@@ -14,17 +14,21 @@ cookTime: 35
 servings: 8
 dateAdded: 2026-09-25
 ingredients:
-  - 1 1/4 cups all-purpose flour
-  - 2/3 cup granulated sugar
-  - 1/2 teaspoon baking powder
-  - 1/4 teaspoon baking soda
-  - 1/4 teaspoon salt
-  - 2/3 cup olive oil
-  - 1/2 cup Greek yogurt
-  - 2 eggs, room temperature
-  - 3 tablespoons lemon juice
-  - 1 lemon, zested
-  - Greek yogurt and fresh raspberries, for serving (optional)
+  - heading: For the cake
+    items:
+      - 1 1/4 cups all-purpose flour
+      - 2/3 cup granulated sugar
+      - 1/2 teaspoon baking powder
+      - 1/4 teaspoon baking soda
+      - 1/4 teaspoon salt
+      - 2/3 cup olive oil
+      - 1/2 cup Greek yogurt
+      - 2 eggs, room temperature
+      - 3 tablespoons lemon juice
+      - 1 lemon, zested
+  - heading: For serving
+    items:
+      - Greek yogurt and fresh raspberries, for serving (optional)
 ---
 
 ## Method

@@ -16,16 +16,20 @@ cookTime: 60
 servings: 3
 dateAdded: 2026-09-13
 ingredients:
-  - 1/4 cup raw cacao powder or unsweetened cocoa powder
-  - 1 to 2 tablespoons maple syrup
-  - 1 1/2 cups high-protein plant-based yogurt
-  - 1 cup soy milk
-  - 1 1/2 cups old-fashioned rolled oats
-  - 3 tablespoons chia seeds
-  - 1/2 teaspoon ground cinnamon
-  - 1/4 teaspoon kosher salt, plus more to taste
-  - 1 teaspoon vanilla extract, plus more to taste
-  - Plant-based chocolate protein powder, almond butter, and raspberries, for serving (optional)
+  - heading: For the overnight oats
+    items:
+      - 1/4 cup raw cacao powder or unsweetened cocoa powder
+      - 1 to 2 tablespoons maple syrup
+      - 1 1/2 cups high-protein plant-based yogurt
+      - 1 cup soy milk
+      - 1 1/2 cups old-fashioned rolled oats
+      - 3 tablespoons chia seeds
+      - 1/2 teaspoon ground cinnamon
+      - 1/4 teaspoon kosher salt, plus more to taste
+      - 1 teaspoon vanilla extract, plus more to taste
+  - heading: For serving
+    items:
+      - Plant-based chocolate protein powder, almond butter, and raspberries, for serving (optional)
 ---
 
 ## Method

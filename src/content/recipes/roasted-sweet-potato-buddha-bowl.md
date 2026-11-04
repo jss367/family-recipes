@@ -15,20 +15,34 @@ cookTime: 50
 servings: 2
 dateAdded: 2026-09-07
 ingredients:
-  - 1 Japanese sweet potato, halved lengthwise
-  - 1/2 bunch asparagus, woody ends removed
-  - 5 to 6 kale leaves, stems removed and chopped
-  - 1 red bell pepper
-  - 2 carrots, shredded
-  - 1/2 cup cooked white beans, rinsed and drained
-  - 1/4 cup walnuts, toasted and chopped
-  - 2 green onions, thinly sliced
-  - 1/4 cup cilantro leaves
-  - 2 tablespoons chopped fresh dill
-  - 1 lemon
-  - 1 tablespoon apple cider vinegar
-  - 1/2 teaspoon cumin seeds
-  - 1 teaspoon extra-virgin olive oil
+  - heading: For the roasted vegetables
+    items:
+      - 1 Japanese sweet potato, halved lengthwise
+      - 1 red bell pepper
+      - 1/2 teaspoon extra-virgin olive oil
+  - heading: For the asparagus
+    items:
+      - 1/2 bunch asparagus, woody ends removed
+  - heading: For the lemon-dill beans
+    items:
+      - 1/2 cup cooked white beans, rinsed and drained
+      - 2 tablespoons chopped fresh dill
+      - Juice of 1/2 lemon
+  - heading: For the carrots
+    items:
+      - 2 carrots, shredded
+      - 1 tablespoon apple cider vinegar
+      - 1/2 teaspoon cumin seeds
+  - heading: For the kale
+    items:
+      - 5 to 6 kale leaves, stems removed and chopped
+      - 1/2 teaspoon extra-virgin olive oil
+  - heading: For the toppings
+    items:
+      - 1/4 cup walnuts, toasted and chopped
+      - 2 green onions, thinly sliced
+      - 1/4 cup cilantro leaves
+      - Juice of 1/2 lemon
 ---
 
 ## Method

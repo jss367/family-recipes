@@ -135,6 +135,8 @@ h1, h2 { font-family: 'Newsreader', Georgia, serif; }
 .ingredients ul { margin: 0; padding: 0; list-style: none; }
 .ingredients li { padding: 10px 0; border-bottom: 1px solid #d7d3ca; font-size: 0.88rem; line-height: 1.45; }
 .ingredients li:last-child { border-bottom: 0; }
+.ingredient-group + .ingredient-group { margin-top: 24px; }
+.ingredient-group h3 { margin: 0 0 6px; color: var(--green); font-size: 1rem; line-height: 1.4; break-after: avoid; }
 
 .prose { font-size: 0.94rem; line-height: 1.75; }
 .prose ol { padding-left: 24px; }
@@ -176,7 +178,7 @@ h1, h2 { font-family: 'Newsreader', Georgia, serif; }
 	.recipe-hero { display: block; }
 	.recipe-heading h1 { font-size: 42px; }
 	.recipe-content { grid-template-columns: 0.7fr 1.3fr; gap: 38px; margin-top: 32px; }
-	.ingredients { break-inside: avoid; }
+	.ingredient-group, .ingredients > ul { break-inside: avoid; }
 }
 
 /* Pantry matching and weekly meal planning */

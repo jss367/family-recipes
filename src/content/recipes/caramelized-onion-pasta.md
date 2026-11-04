@@ -16,18 +16,24 @@ cookTime: 40
 servings: 3
 dateAdded: 2026-09-13
 ingredients:
-  - 2 tablespoons extra-virgin olive oil
-  - 2 medium yellow onions, thinly sliced
-  - 4 garlic cloves, thinly sliced
-  - Kosher salt and black pepper, to taste
-  - 1 teaspoon red pepper flakes
-  - 1 teaspoon dried oregano
-  - 5.3 oz tomato paste, one tube
-  - 2 tablespoons tamari or soy sauce
-  - 2 tablespoons nutritional yeast
-  - 4 to 5 oil-packed sun-dried tomatoes, finely chopped
-  - 10 oz spaghetti or linguine
-  - Toasted pine nuts and chopped parsley, for serving (optional)
+  - heading: For the pasta
+    items:
+      - 10 oz spaghetti or linguine
+  - heading: For the caramelized onion sauce
+    items:
+      - 2 tablespoons extra-virgin olive oil
+      - 2 medium yellow onions, thinly sliced
+      - 4 garlic cloves, thinly sliced
+      - Kosher salt and black pepper, to taste
+      - 1 teaspoon red pepper flakes
+      - 1 teaspoon dried oregano
+      - 5.3 oz tomato paste, one tube
+      - 2 tablespoons tamari or soy sauce
+      - 2 tablespoons nutritional yeast
+      - 4 to 5 oil-packed sun-dried tomatoes, finely chopped
+  - heading: For serving
+    items:
+      - Toasted pine nuts and chopped parsley, for serving (optional)
 ---
 
 ## Method

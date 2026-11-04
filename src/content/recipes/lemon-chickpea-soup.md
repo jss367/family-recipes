@@ -16,25 +16,33 @@ cookTime: 35
 servings: 4
 dateAdded: 2026-09-13
 ingredients:
-  - 1/3 cup long-grain white rice
-  - 1/4 cup extra-virgin olive oil
-  - 4 medium carrots, finely chopped
-  - 1 large yellow onion, finely chopped
-  - Kosher salt and black pepper, to taste
-  - 2 (15 oz) cans chickpeas, divided
-  - 3/4 cup fresh dill, chopped, divided
-  - 5 garlic cloves, finely chopped
-  - 2 tablespoons tomato paste
-  - 2 teaspoons dried oregano
-  - 1/2 teaspoon ground coriander
-  - 1/2 teaspoon ground turmeric
-  - 1/4 to 1/2 teaspoon red pepper flakes
-  - 4 cups vegetable broth
-  - 3 oz baby spinach or kale
-  - 1/2 cup unsweetened plant-based milk
-  - 1 large lemon, zested and juiced
-  - 1/4 cup nutritional yeast
-  - 1 tablespoon white miso
+  - heading: For the soup
+    items:
+      - 1/3 cup long-grain white rice
+      - 1/4 cup extra-virgin olive oil
+      - 4 medium carrots, finely chopped
+      - 1 large yellow onion, finely chopped
+      - Kosher salt and black pepper, to taste
+      - 1 (15 oz) can chickpeas, drained and rinsed
+      - 3/4 cup fresh dill, chopped, divided
+      - 5 garlic cloves, finely chopped
+      - 2 tablespoons tomato paste
+      - 2 teaspoons dried oregano
+      - 1/2 teaspoon ground coriander
+      - 1/2 teaspoon ground turmeric
+      - 1/4 to 1/2 teaspoon red pepper flakes
+      - 4 cups vegetable broth
+      - 3 oz baby spinach or kale
+      - 1 tablespoon lemon juice, from 1 large lemon shared with the puree
+  - heading: For the creamy chickpea puree
+    items:
+      - 1 (15 oz) can chickpeas, drained and rinsed
+      - 1/2 cup unsweetened plant-based milk
+      - Zest and 2 tablespoons juice from 1 large lemon (reserve 1 tablespoon juice for the soup)
+      - 1/4 cup nutritional yeast
+      - 1 tablespoon white miso
+      - 1 teaspoon kosher salt
+      - Black pepper, to taste
 ---
 
 ## Method

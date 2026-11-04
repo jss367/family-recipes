@@ -16,24 +16,30 @@ cookTime: 15
 servings: 3
 dateAdded: 2026-09-13
 ingredients:
-  - 1 1/2 tablespoons extra-virgin olive oil
-  - 2 medium shallots, diced
-  - 4 garlic cloves, grated or minced
-  - Sea salt, to taste
-  - 14 oz block firm tofu
-  - 3/4 teaspoon ground coriander
-  - 1/2 teaspoon ground cumin
-  - 1/2 teaspoon paprika
-  - 1/2 teaspoon black pepper
-  - 1/4 teaspoon ground turmeric
-  - 1/8 teaspoon ground cinnamon
-  - 1 pinch ground cardamom
-  - 1 pinch ground nutmeg
-  - 1/2 teaspoon kala namak (Indian black salt)
-  - 1 tablespoon tahini
-  - 2 tablespoons nutritional yeast
-  - 1/2 cup soy milk or other creamy plant-based milk
-  - 1 to 2 teaspoons za'atar, to taste (optional)
+  - heading: For the tofu and aromatics
+    items:
+      - 1 1/2 tablespoons extra-virgin olive oil
+      - 2 medium shallots, diced
+      - 4 garlic cloves, grated or minced
+      - Sea salt, to taste
+      - 14 oz block firm tofu
+  - heading: For the spiced tahini sauce
+    items:
+      - 3/4 teaspoon ground coriander
+      - 1/2 teaspoon ground cumin
+      - 1/2 teaspoon paprika
+      - 1/2 teaspoon black pepper
+      - 1/4 teaspoon ground turmeric
+      - 1/8 teaspoon ground cinnamon
+      - 1 pinch ground cardamom
+      - 1 pinch ground nutmeg
+      - 1/2 teaspoon kala namak (Indian black salt)
+      - 1 tablespoon tahini
+      - 2 tablespoons nutritional yeast
+      - 1/2 cup soy milk or other creamy plant-based milk
+  - heading: For finishing
+    items:
+      - 1 to 2 teaspoons za'atar, to taste (optional)
 ---
 
 ## Method

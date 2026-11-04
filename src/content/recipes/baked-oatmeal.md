@@ -14,18 +14,22 @@ cookTime: 40
 servings: 6
 dateAdded: 2026-09-25
 ingredients:
-  - 2 cups old-fashioned rolled oats
-  - 1 teaspoon baking powder
-  - 1 teaspoon ground cinnamon
-  - 1/3 teaspoon fine salt
-  - 1 1/2 cups milk of choice
-  - 1 large egg
-  - 1/3 cup maple syrup
-  - 3 tablespoons melted butter or coconut oil
-  - 1 teaspoon vanilla extract
-  - 2 ripe bananas, mashed (or 1 cup unsweetened applesauce — see note)
-  - 1 cup blueberries or chopped apple
-  - 1/2 cup chopped walnuts or pecans
+  - heading: For the oatmeal
+    items:
+      - 2 cups old-fashioned rolled oats
+      - 1 teaspoon baking powder
+      - 1 teaspoon ground cinnamon
+      - 1/3 teaspoon fine salt
+      - 1 1/2 cups milk of choice
+      - 1 large egg
+      - 1/3 cup maple syrup
+      - 3 tablespoons melted butter or coconut oil
+      - 1 teaspoon vanilla extract
+      - 2 ripe bananas, mashed (or 1 cup unsweetened applesauce — see note)
+      - 1 cup blueberries or chopped apple
+  - heading: For the nut topping
+    items:
+      - 1/2 cup chopped walnuts or pecans
 ---
 
 ## Method

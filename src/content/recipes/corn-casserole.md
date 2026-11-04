@@ -14,12 +14,16 @@ cookTime: 55
 servings: 6
 dateAdded: 2026-09-13
 ingredients:
-  - 14.75 oz creamed corn, one can
-  - 15.25 oz whole kernel sweet corn, one can, drained
-  - 8.5 oz Jiffy corn muffin mix, one box
-  - 8 oz sour cream
-  - 1/2 cup butter, melted
-  - 1 cup shredded cheddar cheese
+  - heading: For the casserole
+    items:
+      - 14.75 oz creamed corn, one can
+      - 15.25 oz whole kernel sweet corn, one can, drained
+      - 8.5 oz Jiffy corn muffin mix, one box
+      - 8 oz sour cream
+      - 1/2 cup butter, melted
+  - heading: For the cheese topping
+    items:
+      - 1 cup shredded cheddar cheese
 ---
 
 ## Method

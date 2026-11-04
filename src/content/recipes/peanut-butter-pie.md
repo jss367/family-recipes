@@ -14,12 +14,16 @@ cookTime: 240
 servings: 16
 dateAdded: 2026-09-17
 ingredients:
-  - 8 oz cream cheese, one package
-  - 1 1/2 cups confectioners' sugar
-  - 1 cup peanut butter
-  - 1 cup milk
-  - 16 oz frozen whipped topping, thawed, one package
-  - 2 prepared 9-inch graham cracker crusts
+  - heading: For the peanut butter filling
+    items:
+      - 8 oz cream cheese, one package
+      - 1 1/2 cups confectioners' sugar
+      - 1 cup peanut butter
+      - 1 cup milk
+      - 16 oz frozen whipped topping, thawed, one package
+  - heading: For the crusts
+    items:
+      - 2 prepared 9-inch graham cracker crusts
 ---
 
 ## Method

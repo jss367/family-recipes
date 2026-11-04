@@ -16,19 +16,23 @@ cookTime: 5
 servings: 4
 dateAdded: 2026-09-13
 ingredients:
-  - 12 oz shelled edamame
-  - 4 garlic cloves, peeled
-  - 1/2 to 1 serrano or jalapeño pepper
-  - 1/4 cup tahini, well-stirred
-  - 1/2 medium ripe avocado
-  - 1 1/2 tablespoons soy sauce (or tamari for gluten-free)
-  - 1 handful fresh cilantro leaves and tender stems
-  - 1 teaspoon toasted sesame oil, plus more to taste
-  - 1 large lime, zested and juiced
-  - Kosher salt, to taste
-  - Seeded whole grain bread, for serving (2 slices per serving)
-  - Shelled hemp seeds, for serving (1 1/2 tablespoons per serving)
-  - Sauerkraut or pickled onions, for serving (optional)
+  - heading: For the edamame spread
+    items:
+      - 12 oz shelled edamame
+      - 4 garlic cloves, peeled
+      - 1/2 to 1 serrano or jalapeño pepper
+      - 1/4 cup tahini, well-stirred
+      - 1/2 medium ripe avocado
+      - 1 1/2 tablespoons soy sauce (or tamari for gluten-free)
+      - 1 handful fresh cilantro leaves and tender stems
+      - 1 teaspoon toasted sesame oil, plus more to taste
+      - 1 large lime, zested and juiced
+      - Kosher salt, to taste
+  - heading: For the toast and toppings
+    items:
+      - Seeded whole grain bread, for serving (2 slices per serving)
+      - Shelled hemp seeds, for serving (1 1/2 tablespoons per serving)
+      - Sauerkraut or pickled onions, for serving (optional)
 ---
 
 ## Method

@@ -16,8 +16,21 @@ const recipes = defineCollection({
 		servings: z.number().int().positive(),
 		author: z.string().optional(),
 		dateAdded: z.coerce.date(),
-		ingredients: z.array(z.string()),
-	}),
+		ingredients: z.union([
+			z.array(z.string().min(1)).min(1),
+			z.array(z.object({
+				heading: z.string().min(1),
+				items: z.array(z.string().min(1)).min(1),
+			})).min(1),
+		]),
+	}).transform((recipe) => ({
+		...recipe,
+		ingredientGroups: typeof recipe.ingredients[0] === 'string'
+			? []
+			: recipe.ingredients as { heading: string; items: string[] }[],
+		// Keep search, pantry matching, and grocery lists independent of headings.
+		ingredients: recipe.ingredients.flatMap((item) => typeof item === 'string' ? [item] : item.items),
+	})),
 });
 
 export const collections = { recipes };

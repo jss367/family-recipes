@@ -16,23 +16,31 @@ cookTime: 45
 servings: 10
 dateAdded: 2026-09-13
 ingredients:
-  - 1 lb peaches, ripe but firm
-  - 1/2 cup fresh blueberries
-  - 1/3 cup brown sugar or coconut sugar
-  - 1 teaspoon ground cinnamon
-  - 1/4 teaspoon fresh grated nutmeg
-  - Scant 1/2 teaspoon ground ginger
-  - 1/8 teaspoon ground cardamom (optional)
-  - 10 tablespoons vegan butter
-  - 1 1/2 cups all-purpose flour
-  - Scant 2/3 cup old-fashioned rolled oats
-  - 1 cup cane sugar
-  - Scant 1/2 teaspoon kosher salt
-  - 2 teaspoons baking powder
-  - 1 1/4 cups full-fat oat milk
-  - 1 1/2 teaspoons vanilla extract
-  - 1/4 teaspoon almond extract (optional)
-  - Vegan vanilla ice cream, for serving (optional)
+  - heading: For the fruit
+    items:
+      - 1 lb peaches, ripe but firm
+      - 1/2 cup fresh blueberries
+      - 1/3 cup brown sugar or coconut sugar
+      - 1 teaspoon ground cinnamon
+      - 1/4 teaspoon fresh grated nutmeg
+      - Scant 1/2 teaspoon ground ginger
+      - 1/8 teaspoon ground cardamom (optional)
+  - heading: For the brown butter
+    items:
+      - 10 tablespoons vegan butter
+  - heading: For the batter
+    items:
+      - 1 1/2 cups all-purpose flour
+      - Scant 2/3 cup old-fashioned rolled oats
+      - 1 cup cane sugar
+      - Scant 1/2 teaspoon kosher salt
+      - 2 teaspoons baking powder
+      - 1 1/4 cups full-fat oat milk
+      - 1 1/2 teaspoons vanilla extract
+      - 1/4 teaspoon almond extract (optional)
+  - heading: For serving
+    items:
+      - Vegan vanilla ice cream, for serving (optional)
 ---
 
 ## Method

@@ -17,21 +17,29 @@ cookTime: 20
 servings: 4
 dateAdded: 2026-10-12
 ingredients:
-  - 12 ounces chickpea or lentil pasta, shells or elbows
-  - 4 cups small broccoli florets, fresh or frozen
-  - 1 cup frozen peas
-  - 3 packed cups (about 4 ounces) baby spinach
-  - 1 cup cottage cheese
-  - 1 cup cold milk
-  - 1 scoop (about 30 grams) unflavored pea protein
-  - 1 tablespoon Dijon mustard
-  - 1/2 teaspoon garlic powder
-  - 1/8 teaspoon cayenne
-  - 1/2 teaspoon kosher salt, plus more for the pasta water
-  - 8 ounces extra-sharp cheddar, shredded (about 2 cups)
-  - 1/2 cup grated Parmesan, divided
-  - 1/2 cup panko breadcrumbs
-  - 1 tablespoon butter, melted
+  - heading: For the cheese sauce
+    items:
+      - 1 cup cottage cheese
+      - 1 cup cold milk
+      - 1 scoop (about 30 grams) unflavored pea protein
+      - 1 tablespoon Dijon mustard
+      - 1/2 teaspoon garlic powder
+      - 1/8 teaspoon cayenne
+      - 1/2 teaspoon kosher salt
+      - 8 ounces extra-sharp cheddar, shredded (about 2 cups)
+      - 1/4 cup grated Parmesan
+  - heading: For the pasta and vegetables
+    items:
+      - 12 ounces chickpea or lentil pasta, shells or elbows
+      - 4 cups small broccoli florets, fresh or frozen
+      - 1 cup frozen peas
+      - 3 packed cups (about 4 ounces) baby spinach
+      - Salt, for the pasta water
+  - heading: For the breadcrumb topping
+    items:
+      - 1/2 cup panko breadcrumbs
+      - 1 tablespoon butter, melted
+      - 1/4 cup grated Parmesan
 ---
 
 ## Method
@@ -40,9 +48,9 @@ ingredients:
 2. Blend the **cottage cheese**, cold **milk**, **pea protein**, **mustard**, **garlic powder**, **cayenne**, and **salt** until completely smooth.
 3. Cook the **pasta** according to its package directions until just shy of al dente. Add the **broccoli** for the last 3 minutes and the **peas** for the last minute. Reserve 1 cup of pasta water, then drain in a colander and set aside.
 4. Turn on the broiler. Set the empty pot over low heat and pour in the blended sauce. Stir until steaming, 2 to 3 minutes, without letting it boil.
-5. Add the **cheddar** and half the **Parmesan** a handful at a time, stirring until melted and smooth.
+5. Add the **cheddar** and the 1/4 cup **Parmesan** for the sauce a handful at a time, stirring until melted and smooth.
 6. Stir in the **spinach** until it wilts, then fold in the pasta and vegetables. Add a splash of pasta water if the sauce looks tight. Taste for salt.
-7. Spread into a broiler-safe 9x13 dish. Toss the **panko** with the melted **butter** and remaining Parmesan, scatter it over the top, and broil for 2 to 4 minutes, watching closely, until golden.
+7. Spread into a broiler-safe 9x13 dish. Toss the **panko** with the melted **butter** and 1/4 cup Parmesan for the topping, scatter it over the top, and broil for 2 to 4 minutes, watching closely, until golden.
 
 > Blend the pea protein into the milk while it's cold. Stirred straight into hot sauce, it clumps. Shred the cheddar from a block, since pre-shredded cheese makes a grainier sauce. On a busy night, skip the broiler and eat it straight from the pot.
 >

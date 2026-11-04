@@ -15,20 +15,24 @@ cookTime: 50
 servings: 8
 dateAdded: 2026-09-13
 ingredients:
-  - 4 cups frozen vegetable mix, peas, carrots, corn etc.
-  - 1 cup vegetable broth
-  - 15 oz coconut milk, one can
-  - 15 oz white beans, one can, drained and rinsed
-  - 1 teaspoon salt
-  - 1/2 teaspoon black pepper
-  - 1 teaspoon turmeric
-  - 1/2 teaspoon garlic powder
-  - 1 teaspoon sage
-  - 1 teaspoon onion powder
-  - 1 tablespoon dried thyme
-  - 3 tablespoons nutritional yeast
-  - 5 tablespoons cornstarch, mixed with 5 tablespoons vegetable broth from above
-  - 1 sheet puff pastry, flaky crust is usually dairy free
+  - heading: For the vegetable filling
+    items:
+      - 4 cups frozen vegetable mix, peas, carrots, corn etc.
+      - 1 cup vegetable broth
+      - 15 oz coconut milk, one can
+      - 15 oz white beans, one can, drained and rinsed
+      - 1 teaspoon salt
+      - 1/2 teaspoon black pepper
+      - 1 teaspoon turmeric
+      - 1/2 teaspoon garlic powder
+      - 1 teaspoon sage
+      - 1 teaspoon onion powder
+      - 1 tablespoon dried thyme
+      - 3 tablespoons nutritional yeast
+      - 5 tablespoons cornstarch, mixed with 5 tablespoons vegetable broth from above
+  - heading: For the pastry crust
+    items:
+      - 1 sheet puff pastry, flaky crust is usually dairy free
 ---
 
 ## Method

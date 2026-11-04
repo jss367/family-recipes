@@ -14,28 +14,32 @@ cookTime: 35
 servings: 4
 dateAdded: 2026-10-03
 ingredients:
-  - 250g chitra rajma (kidney beans), soaked 6 to 8 hours
-  - 3 medium onions, roughly cut
-  - 4 medium tomatoes, cross-slit
-  - 2 green chilies, slit
-  - 8 to 10 garlic cloves
-  - 2-inch piece ginger, grated
-  - 2-inch piece cinnamon stick
-  - 1 black cardamom pod
-  - 2 small bay leaves
-  - 1 teaspoon cumin seeds
-  - 1 teaspoon salt
-  - 1/2 teaspoon turmeric powder
-  - 2 tablespoons Kashmiri red chili powder
-  - 2 tablespoons coriander powder
-  - 1/2 teaspoon garam masala
-  - 1 tablespoon ghee
-  - 3 cups water
-  - Hot water, as needed
-  - A pinch of garam masala, to finish
-  - A large pinch of roasted kasuri methi powder
-  - 1 tablespoon ghee, to finish
-  - A handful of fresh coriander, chopped
+  - heading: For the rajma
+    items:
+      - 250g chitra rajma (kidney beans), soaked 6 to 8 hours
+      - 3 medium onions, roughly cut
+      - 4 medium tomatoes, cross-slit
+      - 2 green chilies, slit
+      - 8 to 10 garlic cloves
+      - 2-inch piece ginger, grated
+      - 2-inch piece cinnamon stick
+      - 1 black cardamom pod
+      - 2 small bay leaves
+      - 1 teaspoon cumin seeds
+      - 1 teaspoon salt
+      - 1/2 teaspoon turmeric powder
+      - 2 tablespoons Kashmiri red chili powder
+      - 2 tablespoons coriander powder
+      - 1/2 teaspoon garam masala
+      - 1 tablespoon ghee
+      - 3 cups water
+      - Hot water, as needed
+  - heading: For finishing
+    items:
+      - A pinch of garam masala, to finish
+      - A large pinch of roasted kasuri methi powder
+      - 1 tablespoon ghee, to finish
+      - A handful of fresh coriander, chopped
 ---
 
 ## Method

@@ -47,9 +47,14 @@ const cookLabel = recipe.data.category === 'Shakes' ? 'Blend' : 'Cook';
 		<div class="recipe-content">
 			<aside class="ingredients">
 				<h2>Ingredients</h2>
-				<ul>
+				{recipe.data.ingredientGroups.length ? recipe.data.ingredientGroups.map((group) => (
+					<section class="ingredient-group">
+						<h3>{group.heading}</h3>
+						<ul>{group.items.map((ingredient) => <li>{ingredient}</li>)}</ul>
+					</section>
+				)) : <ul>
 					{recipe.data.ingredients.map((ingredient) => <li>{ingredient}</li>)}
-				</ul>
+				</ul>}
 			</aside>
 			<section class="method prose">
 				<Content />
