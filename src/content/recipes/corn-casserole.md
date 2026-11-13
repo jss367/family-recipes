@@ -30,7 +30,7 @@ ingredients:
 
 1. Preheat the oven to 350°F.
 2. Stir together the **creamed corn**, drained **whole kernel corn**, **corn muffin mix**, **sour cream**, and melted **butter** in a large bowl, leaving the cheese aside.
-3. Pour the mixture into a greased 9x13 casserole dish or 10-inch cast iron skillet.
+3. Pour the mixture into a parchment-lined 9x13-inch baking dish.
 4. Bake uncovered for 45 minutes.
 5. Sprinkle the **cheddar** on top and bake for another 10 to 15 minutes, until golden.
 6. Let rest for 5 minutes before serving.
