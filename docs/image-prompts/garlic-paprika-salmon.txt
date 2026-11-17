@@ -1,0 +1,6 @@
+Asset: public/images/garlic-paprika-salmon.jpg
+Generated with the built-in image generation tool on 2026-11-16.
+Illustrative recipe photograph; not a photograph of a tested dish.
+
+Prompt:
+Use case: photorealistic-natural. Asset type: landscape recipe photograph for a personal family cookbook, 1536 by 1024 composition. Subject: two home-cooked skin-on salmon fillets with a lightly browned reddish garlic-paprika seasoning crust, in a simple dark skillet with a small amount of melted lemon butter and a lemon wedge beside them. Warm natural window light, realistic appetizing food textures, relaxed everyday kitchen setting, three-quarter overhead view. The salmon is the clear central subject with room for a wide card crop. Only the salmon, finely ground spices, lemon, oil and butter; no green herb garnish or other ingredients. No text, labels, logos, borders or watermarks.
