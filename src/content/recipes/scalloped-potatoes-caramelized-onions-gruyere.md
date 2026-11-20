@@ -47,6 +47,6 @@ ingredients:
 7. Remove the foil and broil for 5 minutes, uncovered, until lightly browned.
 8. Sprinkle with **rosemary** (or **thyme** or **chives**) to serve.
 
-> If you're making this ahead, make sure the potatoes are well coated in olive oil, adding more if needed, to keep them from turning grey. Prep and cook times are estimates. Gruyère and Parmesan are traditionally made with animal rennet, so look for vegetarian-labeled versions.
+> Serves 6 to 8. If you're making this ahead, make sure the potatoes are well coated in olive oil, adding more if needed, to keep them from turning grey. Prep and cook times are estimates. Gruyère and Parmesan are traditionally made with animal rennet, so look for vegetarian-labeled versions.
 >
 > Adapted from [Simply Recipes](https://www.simplyrecipes.com/recipes/scalloped_potatoes_with_caramelized_onions_and_gruyere/).
