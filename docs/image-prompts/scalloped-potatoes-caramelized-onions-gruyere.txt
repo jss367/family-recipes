@@ -1,0 +1,6 @@
+Asset: public/images/scalloped-potatoes-caramelized-onions-gruyere.jpg
+Generated with the built-in image generation tool.
+Illustrative recipe photograph; not a photograph of a tested dish.
+
+Prompt:
+Create one natural photoreal landscape 3:2 recipe photograph for a family cookbook: a simple ceramic gratin dish of scalloped Yukon Gold potatoes with caramelized onions and Gruyère, thin overlapping potato rounds visible on top, gently broiled golden cheese with small toasted spots, a few tiny fresh rosemary flecks, and a single portion lifted out at the near edge to reveal the golden onion layer beneath. Natural warm side window light, honest home-cooking textures, muted wood kitchen table, three-quarter overhead view. The casserole is the clear central subject with space around it for a card crop. No additional food, no creamy sauce puddles, no words, text, labels, logos or watermarks.
