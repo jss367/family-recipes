@@ -1,0 +1,5 @@
+Asset: public/images/homemade-hummus.jpg
+Generated with the built-in image generation tool.
+
+Prompt:
+Landscape 3:2 family cookbook photograph. A shallow stoneware bowl of creamy homemade hummus with soft spoon swirls catching olive oil, thin golden fried garlic slices, a few small curls of yellow lemon peel, chopped flat-leaf parsley and a light dusting of paprika. Torn warm pita beside the bowl on a wood table. Three-quarter overhead view in natural window light, realistic homemade textures, centered bowl with breathing room for cropping. No lettering or watermark.
