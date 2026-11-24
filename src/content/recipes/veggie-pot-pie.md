@@ -17,10 +17,10 @@ dateAdded: 2026-09-13
 ingredients:
   - heading: For the vegetable filling
     items:
-      - 4 cups frozen vegetable mix, peas, carrots, corn etc.
+      - 3 cups frozen vegetable mix, peas, carrots, corn etc.
       - 1 cup vegetable broth
       - 15 oz coconut milk, one can
-      - 15 oz white beans, one can, drained and rinsed
+      - 2 (15-oz) cans white beans, drained and rinsed
       - 1 teaspoon salt
       - 1/2 teaspoon black pepper
       - 1 teaspoon turmeric
